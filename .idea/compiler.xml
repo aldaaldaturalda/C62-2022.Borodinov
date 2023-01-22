@@ -2,25 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-<<<<<<< HEAD
       <profile default="true" name="Default" enabled="true" />
-=======
->>>>>>> origin/main
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-<<<<<<< HEAD
-        <module name="LESSON2.2" />
-        <module name="Lesson21jdbc" />
-        <module name="Lesson1" />
-        <module name="Lessons3" />
-=======
-        <module name="Lesson1" />
-        <module name="Lessons3" />
-        <module name="Lesson2" />
->>>>>>> origin/main
-      </profile>
     </annotationProcessing>
   </component>
 </project>
