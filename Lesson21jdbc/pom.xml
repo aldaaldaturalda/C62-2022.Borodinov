@@ -9,11 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>Lesson2</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>LESSON2.2</module>
-    </modules>
+    <artifactId>Lesson21jdbc</artifactId>
 
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
