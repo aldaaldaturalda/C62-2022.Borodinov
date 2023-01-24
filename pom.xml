@@ -48,8 +48,29 @@
     <modules>
         <module>Lesson1</module>
         <module>Lesson2</module>
-        <module>Lessons3</module>
+        <module>Lesson3</module>
         <module>Lesson21jdbc</module>
+        <module>Lesson4</module>
+        <module>Lesson5</module>
+        <module>Lesson6</module>
+        <module>Lesson7</module>
+        <module>Lesson8</module>
+        <module>Lesson8Addition</module>
+        <module>Lesson9</module>
+        <module>Lesson10</module>
+        <module>Lesson11</module>
+        <module>Lesson12</module>
+        <module>Lesson13</module>
+        <module>Lesson14</module>
+        <module>Lesson15</module>
+        <module>Lesson16</module>
+        <module>Lesson17</module>
+        <module>Lesson18</module>
+        <module>Lesson19</module>
+        <module>Lesson20</module>
+        <module>Lesson20Addition</module>
+        <module>Lesson22JDBC</module>
+        <module>Lesson23</module>
     </modules>
 
     <properties>

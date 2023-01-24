@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>groupId</groupId>
-        <artifactId>Lesson2</artifactId>
+        <artifactId>c18-onl2022.Borodinov</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>LESSON2.2</artifactId>
+    <artifactId>Lesson17</artifactId>
 
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
