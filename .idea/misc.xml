@@ -8,6 +8,12 @@
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Lesson2/LESSON2.2/pom.xml" />
+        <option value="$PROJECT_DIR$/Lessons3/Lesson4/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19 (2)" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
