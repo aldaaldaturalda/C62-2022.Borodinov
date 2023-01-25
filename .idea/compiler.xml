@@ -12,16 +12,16 @@
         <module name="Lesson4" />
         <module name="Lesson7" />
         <module name="Lesson20" />
-        <module name="Lesson6" />
         <module name="Lesson10" />
+        <module name="Lesson6" />
         <module name="Lesson1" />
         <module name="Lesson3" />
         <module name="Lesson8Addition" />
         <module name="Lesson15" />
         <module name="Lesson16" />
         <module name="Lesson17" />
-        <module name="Lesson21jdbc" />
         <module name="Lesson18" />
+        <module name="Lesson21jdbc" />
         <module name="Lesson22JDBC" />
         <module name="Lesson11" />
         <module name="Lesson12" />
@@ -34,7 +34,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="LESSON2.2" target="19" />
+      <module name="C62-2022.Borodinov" target="19" />
+      <module name="Lessons3" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>
