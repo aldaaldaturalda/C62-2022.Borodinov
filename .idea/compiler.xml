@@ -2,14 +2,40 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Lesson1" />
-        <module name="Lessons3" />
-        <module name="Lesson2" />
+        <module name="Lesson3" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="c18-onl2022.Borodinov" target="19" />
+      <module name="Lesson10" target="19" />
+      <module name="Lesson11" target="19" />
+      <module name="Lesson12" target="19" />
+      <module name="Lesson13" target="19" />
+      <module name="Lesson14" target="19" />
+      <module name="Lesson15" target="19" />
+      <module name="Lesson16" target="19" />
+      <module name="Lesson17" target="19" />
+      <module name="Lesson18" target="19" />
+      <module name="Lesson19" target="19" />
+      <module name="Lesson20" target="19" />
+      <module name="Lesson20Addition" target="19" />
+      <module name="Lesson21jdbc" target="19" />
+      <module name="Lesson22JDBC" target="19" />
+      <module name="Lesson23" target="19" />
+      <module name="Lesson4" target="19" />
+      <module name="Lesson5" target="19" />
+      <module name="Lesson6" target="19" />
+      <module name="Lesson7" target="19" />
+      <module name="Lesson8" target="19" />
+      <module name="Lesson8Addition" target="19" />
+      <module name="Lesson9" target="19" />
+      <module name="Lessons3" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
