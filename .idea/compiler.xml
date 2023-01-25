@@ -7,34 +7,34 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Lesson5" />
+        <module name="Lesson20Addition" />
+        <module name="Lesson4" />
+        <module name="Lesson7" />
+        <module name="Lesson20" />
+        <module name="Lesson10" />
+        <module name="Lesson6" />
         <module name="Lesson1" />
         <module name="Lesson3" />
+        <module name="Lesson8Addition" />
+        <module name="Lesson15" />
+        <module name="Lesson16" />
+        <module name="Lesson17" />
+        <module name="Lesson18" />
+        <module name="Lesson21jdbc" />
+        <module name="Lesson22JDBC" />
+        <module name="Lesson11" />
+        <module name="Lesson12" />
+        <module name="Lesson23" />
+        <module name="Lesson13" />
+        <module name="Lesson14" />
+        <module name="Lesson19" />
+        <module name="Lesson9" />
+        <module name="Lesson8" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="c18-onl2022.Borodinov" target="19" />
-      <module name="Lesson10" target="19" />
-      <module name="Lesson11" target="19" />
-      <module name="Lesson12" target="19" />
-      <module name="Lesson13" target="19" />
-      <module name="Lesson14" target="19" />
-      <module name="Lesson15" target="19" />
-      <module name="Lesson16" target="19" />
-      <module name="Lesson17" target="19" />
-      <module name="Lesson18" target="19" />
-      <module name="Lesson19" target="19" />
-      <module name="Lesson20" target="19" />
-      <module name="Lesson20Addition" target="19" />
-      <module name="Lesson21jdbc" target="19" />
-      <module name="Lesson22JDBC" target="19" />
-      <module name="Lesson23" target="19" />
-      <module name="Lesson4" target="19" />
-      <module name="Lesson5" target="19" />
-      <module name="Lesson6" target="19" />
-      <module name="Lesson7" target="19" />
-      <module name="Lesson8" target="19" />
-      <module name="Lesson8Addition" target="19" />
-      <module name="Lesson9" target="19" />
+      <module name="C62-2022.Borodinov" target="19" />
       <module name="Lessons3" target="19" />
     </bytecodeTargetLevel>
   </component>
