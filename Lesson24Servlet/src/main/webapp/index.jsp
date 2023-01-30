@@ -17,6 +17,6 @@
     %>
 </h3>
 <br/>
-<a href="myservlet">Hello Servlet</a>
+<a href="hello">Hello Servlet</a>
 </body>
 </html>
