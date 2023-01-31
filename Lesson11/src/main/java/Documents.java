@@ -6,8 +6,7 @@ import java.util.Scanner;
 public class Documents {
     public static void readFile() throws IOException {
         Scanner scanner = new Scanner(System.in);
-        String choice;
-        choice = scanner.next();
+        String choice = scanner.next();
         Reader reader = new FileReader(choice);
         BufferedReader bufferedReader = new BufferedReader(reader);
         String name;

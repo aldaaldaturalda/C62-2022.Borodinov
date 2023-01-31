@@ -23,13 +23,13 @@ public class Main {
     public static void main(String[] args){
         try {
             Documents.readFile();
-        } catch (IOException ex) {
-            throw new RuntimeException(ex);
+        } catch (IOException e) {
+            System.out.println(e.getMessage() + "произошла ошибка");
         }
         try {
             Documents.documetsCheck();
-        } catch (IOException ex2) {
-            throw new RuntimeException(ex2);
+        } catch (IOException exception) {
+            System.out.println(exception.getMessage() + "произошла ошибка");
         }
     }
     }
