@@ -27,7 +27,7 @@ public class Main {
             System.out.println(e.getMessage() + "произошла ошибка");
         }
         try {
-            Documents.documetsCheck();
+            Documents.documentsCheck();
         } catch (IOException exception) {
             System.out.println(exception.getMessage() + "произошла ошибка");
         }
