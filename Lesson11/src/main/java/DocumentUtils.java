@@ -1,9 +1,14 @@
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.Scanner;
 
-public class Documents {
+public class DocumentUtils {
     private final static Scanner scanner = new Scanner(System.in);
     private final static String PATH = "C:\\Users\\User\\IdeaProjects\\C62-2022.Borodinov\\Lesson11\\src\\main\\java\\docNum";
+
+    public DocumentUtils() {
+    }
 
     public static void readFile() {
         String choice = scanner.next();
