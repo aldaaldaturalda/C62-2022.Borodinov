@@ -20,16 +20,8 @@
  */
 import java.io.IOException;
 public class Main {
-    public static void main(String[] args){
-        try {
-            Documents.readFile();
-        } catch (IOException e) {
-            System.out.println(e.getMessage() + "произошла ошибка");
-        }
-        try {
-            Documents.documentsCheck();
-        } catch (IOException exception) {
-            System.out.println(exception.getMessage() + "произошла ошибка");
-        }
+    public static void main(String[] args) {
+        Documents.readFile();
+        Documents.documentsCheck();
     }
-    }
+}

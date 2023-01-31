@@ -17,12 +17,10 @@ public class Documents {
         }
     }
 
-    public static void documentsCheck() throws FileNotFoundException {
-        try (BufferedReader bufferedReader = new BufferedReader(new FileReader(PATH)) {
+    public static void documentsCheck() {
+        try (BufferedReader bufferedReader = new BufferedReader(new FileReader(PATH))) {
             String name;
-        while((name =bufferedReader.readLine())!=null)
-
-            {
+            while ((name = bufferedReader.readLine()) != null) {
                 if (name.length() != 15) {
                     System.out.println("Документ не валиден" + " " + name);
                 } else if (!name.startsWith("docNum") && !name.startsWith("contract")) {
@@ -30,7 +28,9 @@ public class Documents {
                 }
             }
 
+        } catch (IOException e) {
+            System.out.println(e.getMessage() + "ошибка");
         }
-}
+    }
 }
 
