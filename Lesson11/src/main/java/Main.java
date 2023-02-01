@@ -18,18 +18,10 @@
 но после номеров документов следует добавить информацию о том,
 почему этот документ невалиден.
  */
-import java.io.IOException;
+
 public class Main {
-    public static void main(String[] args){
-        try {
-            Documents.readFile();
-        } catch (IOException ex) {
-            throw new RuntimeException(ex);
-        }
-        try {
-            Documents.documetsCheck();
-        } catch (IOException ex2) {
-            throw new RuntimeException(ex2);
-        }
+    public static void main(String[] args) {
+        DocumentUtils.readFile();
+        DocumentUtils.documentsCheck();
     }
-    }
+}

@@ -22,13 +22,6 @@
             <version>3.12.0</version>
         </dependency>
 
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <version>5.9.1</version>
-            <scope>test</scope>
-        </dependency>
-
         <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
         <dependency>
             <groupId>mysql</groupId>
@@ -43,8 +36,22 @@
             <version>42.5.1</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api -->
+        <dependency>
+            <groupId>jakarta.servlet</groupId>
+            <artifactId>jakarta.servlet-api</artifactId>
+            <version>6.0.0</version>
+            <scope>provided</scope>
+        </dependency>
 
+        <!-- https://mvnrepository.com/artifact/jstl/jstl -->
+        <dependency>
+            <groupId>jstl</groupId>
+            <artifactId>jstl</artifactId>
+            <version>1.2</version>
+        </dependency>
     </dependencies>
+
     <modules>
         <module>Lesson1</module>
         <module>Lesson2</module>
@@ -71,6 +78,8 @@
         <module>Lesson20Addition</module>
         <module>Lesson22JDBC</module>
         <module>Lesson23</module>
+        <module>Lesson24Servlet</module>
+        <module>TestAlisgev</module>
     </modules>
 
     <properties>
