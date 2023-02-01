@@ -5,17 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>main</groupId>
-    <artifactId>Lesson24Servlet</artifactId>
+    <artifactId>Lesson25Servlet</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Lesson24Servlet</name>
+    <name>Lesson25Servlet</name>
     <packaging>war</packaging>
-
-    <parent>
-        <groupId>groupId</groupId>
-        <artifactId>c18-onl2022.Borodinov</artifactId>
-        <version>1.0-SNAPSHOT</version>
-    </parent>
-
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
