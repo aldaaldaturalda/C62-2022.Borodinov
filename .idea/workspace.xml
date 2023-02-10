@@ -9,29 +9,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="homework">
-      <change afterPath="$PROJECT_DIR$/Lesson25Servlet/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson25Servlet/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson25Servlet/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson25Servlet/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson25Servlet/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson25Servlet/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson25Servlet/src/main/java/main/lesson25servlet/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson25Servlet/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson25Servlet/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson25Servlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson25Servlet/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson9/src/main/java/homework/task2/Bouquet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson9/src/main/java/homework/task2/Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson9/src/main/java/homework/task2/FlowerMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson9/src/main/java/homework/task2/FlowerMarketOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson9/src/main/java/homework/task2/FlowerType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="calculator servlet">
+      <change afterPath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/servlet/CalculatorServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/mvnw.cmd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson24Servlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson24Servlet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/src/main/java/homework/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/src/main/java/homework/task2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/main/lesson24servlet/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/main/lesson24servlet/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson24Servlet/src/main/webapp/calculator.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson25Servlet/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +57,12 @@
   }
 }</component>
   <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="aldaaldaturalda" />
+        <option name="repository" value="C62-2022.Borodinov" />
+      </RepoCoordinatesHolder>
+    </option>
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="ffe3d55c-2cf7-4221-a07d-1faedffe7790" />
@@ -128,7 +129,7 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 11.0.0-M1">
     <configuration name="LessTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LessTest" />
       <module name="Lesson3" />
@@ -164,44 +165,75 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat 11.0.0-M1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M1" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="calculator.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/calculator.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 11.0.0-M1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M1" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/calculator" />
+      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Lesson24Servlet:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/Lesson24Servlet_war_exploded" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings />
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="Lesson24Servlet:war exploded" />
-        </option>
-      </method>
-    </configuration>
-    <configuration name="index.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M1" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
-      <deployment>
-        <artifact name="Lesson24Servlet:war">
-          <settings>
-            <option name="CONTEXT_PATH" value="/Lesson24Servlet_war" />
+            <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="abc9830e-4b9a-456e-8aab-5f76161ca893" />
+        <option name="BASE_DIRECTORY_NAME" value="4ee1d91e-8cbb-410a-af65-09b40fe969b9" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58735" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -220,7 +252,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Lesson24Servlet:war" />
+          <artifact name="Lesson24Servlet:war exploded" />
         </option>
       </method>
     </configuration>
@@ -229,13 +261,13 @@
       <item itemvalue="Application.LessTest" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Task" />
+      <item itemvalue="JavaScript Debug.calculator.jsp" />
       <item itemvalue="Tomcat Server.Tomcat 11.0.0-M1" />
-      <item itemvalue="Tomcat Server.index.jsp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.calculator.jsp" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Tomcat Server.index.jsp" />
         <item itemvalue="Application.LessTest" />
         <item itemvalue="Application.Task" />
         <item itemvalue="Application.Main (1)" />
@@ -265,7 +297,8 @@
       <workItem from="1675025845169" duration="9115000" />
       <workItem from="1675093501541" duration="1484000" />
       <workItem from="1675194874592" duration="6119000" />
-      <workItem from="1675201136861" duration="8863000" />
+      <workItem from="1675201136861" duration="9216000" />
+      <workItem from="1676056670588" duration="7220000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -351,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675199456205</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="homework flowers+ проработал изменения которые вы прокомментировали в репозитории">
+      <created>1675210615412</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675210615412</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,7 +425,9 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="homework&#10;servlets" />
     <MESSAGE value="homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework" />
+    <MESSAGE value="homework flowers+ проработал изменения которые вы прокомментировали в репозитории" />
+    <MESSAGE value="calculator servlet" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculator servlet" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
