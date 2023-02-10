@@ -78,7 +78,7 @@
         <module>Lesson20Addition</module>
         <module>Lesson22JDBC</module>
         <module>Lesson23</module>
-        <module>Lesson24Servlet</module>
+        <module>Lesson24CalculatorServlet</module>
         <module>Lesson25Servlet</module>
         <module>TestAlisgev</module>
     </modules>

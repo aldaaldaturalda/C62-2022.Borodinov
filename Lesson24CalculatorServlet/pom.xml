@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>main</groupId>
-    <artifactId>Lesson24Servlet</artifactId>
+    <artifactId>Lesson24CalculatorServlet</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>Lesson24Servlet</name>
     <packaging>war</packaging>

@@ -21,7 +21,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        DocumentUtils.readFile();
+       DocumentUtils.readFile();
         DocumentUtils.documentsCheck();
     }
 }

@@ -18,7 +18,6 @@
         <module name="Lesson13" />
         <module name="Lesson14" />
         <module name="Test" />
-        <module name="Lesson24Servlet" />
         <module name="Lesson25Servlet" />
         <module name="Lesson9" />
         <module name="Lesson8" />
@@ -34,6 +33,7 @@
         <module name="Lesson22JDBC" />
         <module name="Lesson23" />
         <module name="Lesson19" />
+        <module name="Lesson24CalculatorServlet" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

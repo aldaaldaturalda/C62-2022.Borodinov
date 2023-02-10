@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Lesson24Servlet:war exploded" />
+      <artifact name="Lesson24CalculatorServlet:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,8 +10,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="calculator servlet">
+      <change afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/src/main/java/calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/src/main/java/servlet/CalculatorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/src/main/webapp/calculator.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/src/main/java/DocumentUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/src/main/java/DocumentUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/calculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/servlet/CalculatorServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/resources/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/webapp/calculator.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +132,7 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 11.0.0-M1">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="LessTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LessTest" />
       <module name="Lesson3" />
@@ -121,9 +140,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Lesson1" />
+      <module name="Lesson11" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,17 +172,16 @@
       <method v="2" />
     </configuration>
     <configuration name="Tomcat 11.0.0-M1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M1" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/calculator" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="Lesson24Servlet:war exploded">
+        <artifact name="Lesson24CalculatorServlet:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="4ee1d91e-8cbb-410a-af65-09b40fe969b9" />
+        <option name="BASE_DIRECTORY_NAME" value="e46f88db-c291-4dc8-b354-21b3a7dd5787" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -171,7 +189,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="58735" />
+        <option name="DEBUG_PORT" value="65513" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -236,25 +254,25 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Lesson24Servlet:war exploded" />
+          <artifact name="Lesson24CalculatorServlet:war exploded" />
         </option>
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.LessTest" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Task" />
       <item itemvalue="JavaScript Debug.calculator.jsp" />
       <item itemvalue="Tomcat Server.Tomcat 11.0.0-M1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="JavaScript Debug.calculator.jsp" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LessTest" />
         <item itemvalue="Application.Task" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +300,8 @@
       <workItem from="1675093501541" duration="1484000" />
       <workItem from="1675194874592" duration="6119000" />
       <workItem from="1675201136861" duration="9216000" />
-      <workItem from="1676056670588" duration="8234000" />
+      <workItem from="1676056670588" duration="8736000" />
+      <workItem from="1676070806961" duration="1561000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -389,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676064715344</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="calculator servlet">
+      <created>1676065599324</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676065599324</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
