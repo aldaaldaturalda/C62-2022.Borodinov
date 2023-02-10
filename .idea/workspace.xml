@@ -10,24 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="calculator servlet">
-      <change afterPath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/servlet/CalculatorServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson24Servlet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/main/lesson24servlet/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/calculator/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/main/lesson24servlet/HelloServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson24Servlet/src/main/webapp/calculator.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson25Servlet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/calculator/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,7 +282,7 @@
       <workItem from="1675093501541" duration="1484000" />
       <workItem from="1675194874592" duration="6119000" />
       <workItem from="1675201136861" duration="9216000" />
-      <workItem from="1676056670588" duration="7220000" />
+      <workItem from="1676056670588" duration="8234000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -391,7 +375,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675210615412</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="calculator servlet">
+      <created>1676064673964</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1676064673964</updated>
+    </task>
+    <task id="LOCAL-00015" summary="calculator servlet">
+      <created>1676064715344</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676064715344</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

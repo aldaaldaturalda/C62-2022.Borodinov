@@ -5,19 +5,21 @@ import lombok.experimental.UtilityClass;
 
 @UtilityClass
 public class Calculator {
-   public static double sum(double a, double b) {
-      return a + b;
+
+   public static <N extends Number, P extends Number> double sum(N n, P p) {
+      return n.doubleValue() + p.doubleValue();
    }
 
-   public double subtraction(double a, double b) {
-      return a - b;
+
+   public static <N extends Number, P extends Number> double subtraction(N n, P p) {
+      return n.doubleValue() - p.doubleValue();
    }
 
-   public double multiply(double a, double b) {
-      return a * b;
+   public static <N extends Number, P extends Number> double multiply(N n, P p) {
+      return n.doubleValue() * p.doubleValue();
    }
 
-   public double division(double a, double b) {
-      return a / b;
+   public static <N extends Number, P extends Number> double division(N n, P p) {
+      return n.doubleValue() / p.doubleValue();
    }
 }
