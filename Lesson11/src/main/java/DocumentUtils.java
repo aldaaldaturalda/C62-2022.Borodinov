@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class DocumentUtils {
     private final static Scanner scanner = new Scanner(System.in);
-    private final static String PATH = "C:\\Users\\User\\IdeaProjects\\C62-2022.Borodinov\\Lesson11\\src\\main\\java\\docNum";
+    private final static String PATH = "Lesson11/src/main/java/docNum";
 
     public DocumentUtils() {
     }
@@ -22,20 +22,19 @@ public class DocumentUtils {
         }
     }
 
-    public static void documentsCheck() {
+    public static boolean documentsCheck() {
         try (BufferedReader bufferedReader = new BufferedReader(new FileReader(PATH))) {
             String name;
             while ((name = bufferedReader.readLine()) != null) {
-                if (name.length() != 15) {
+                if (name.length() != 15 && !name.startsWith("docNum") && !name.startsWith("contract")) {
                     System.out.println("Документ не валиден" + " " + name);
-                } else if (!name.startsWith("docNum") && !name.startsWith("contract")) {
-                    System.out.println("Документ не валиден" + " " + name);
+                    return false;
                 }
             }
-
         } catch (IOException e) {
             System.out.println(e.getMessage() + "ошибка");
         }
+        return true;
     }
 }
 
