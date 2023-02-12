@@ -9,15 +9,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="calculator servlet">
-      <change afterPath="$PROJECT_DIR$/Lesson5/src/main/java/AmebaDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/src/main/java/BirthdayCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/src/main/java/CheckRepeatNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/src/main/java/MassiveOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/src/main/java/MassiveRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/src/main/java/MassiveRandomOddChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/src/main/java/MatrixAdditionalTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/src/main/java/MatrixSquare.java" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="hw">
+      <change afterPath="$PROJECT_DIR$/Lesson5/src/main/java/MaxValueTransition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/src/main/java/NumberElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/src/main/java/PrintMatrixRandomNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/src/main/java/RandomDayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/src/main/java/SumWithoutMultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/src/main/java/TreeMassive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,26 +89,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "import_schema_mapping": "<schema-mapping>\n  <databases>\n    <list>\n      <schema-mapping-item>\n        <source-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</source-data-source-id>\n        <source-path>database/&quot;postgres&quot;/schema/&quot;city&quot;</source-path>\n        <target-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</target-data-source-id>\n        <target-path>database/&quot;postgres&quot;/schema/&quot;students_db&quot;</target-path>\n      </schema-mapping-item>\n    </list>\n  </databases>\n</schema-mapping>",
-    "jdk.selected.JAVA_MODULE": "openjdk-19 (2)",
-    "last_opened_file_path": "D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;import_schema_mapping&quot;: &quot;&lt;schema-mapping&gt;\n  &lt;databases&gt;\n    &lt;list&gt;\n      &lt;schema-mapping-item&gt;\n        &lt;source-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/source-data-source-id&gt;\n        &lt;source-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;city&amp;quot;&lt;/source-path&gt;\n        &lt;target-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/target-data-source-id&gt;\n        &lt;target-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;students_db&amp;quot;&lt;/target-path&gt;\n      &lt;/schema-mapping-item&gt;\n    &lt;/list&gt;\n  &lt;/databases&gt;\n&lt;/schema-mapping&gt;&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19 (2)&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
@@ -120,37 +118,37 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MatrixSquare">
-    <configuration name="BirthdayCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BirthdayCounter" />
+  <component name="RunManager" selected="Application.TreeMassive">
+    <configuration name="NumberElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberElement" />
       <module name="Lesson5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MassiveRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MassiveRandom" />
+    <configuration name="PrintMatrixRandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintMatrixRandomNumbers" />
       <module name="Lesson5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MassiveRandomOddChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MassiveRandomOddChange" />
+    <configuration name="RandomDayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomDayElements" />
       <module name="Lesson5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixAdditionalTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MatrixAdditionalTask" />
+    <configuration name="SumWithoutMultiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumWithoutMultiply" />
       <module name="Lesson5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MatrixSquare" />
+    <configuration name="TreeMassive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeMassive" />
       <module name="Lesson5" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -244,20 +242,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MatrixSquare" />
-      <item itemvalue="Application.BirthdayCounter" />
-      <item itemvalue="Application.MassiveRandom" />
-      <item itemvalue="Application.MassiveRandomOddChange" />
-      <item itemvalue="Application.MatrixAdditionalTask" />
+      <item itemvalue="Application.NumberElement" />
+      <item itemvalue="Application.PrintMatrixRandomNumbers" />
+      <item itemvalue="Application.RandomDayElements" />
+      <item itemvalue="Application.SumWithoutMultiply" />
+      <item itemvalue="Application.TreeMassive" />
       <item itemvalue="Tomcat Server.Tomcat 11.0.0-M1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MatrixSquare" />
-        <item itemvalue="Application.MatrixAdditionalTask" />
-        <item itemvalue="Application.MassiveRandomOddChange" />
-        <item itemvalue="Application.BirthdayCounter" />
-        <item itemvalue="Application.MassiveRandom" />
+        <item itemvalue="Application.TreeMassive" />
+        <item itemvalue="Application.SumWithoutMultiply" />
+        <item itemvalue="Application.RandomDayElements" />
+        <item itemvalue="Application.NumberElement" />
+        <item itemvalue="Application.PrintMatrixRandomNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -290,6 +288,8 @@
       <workItem from="1676124716835" duration="925000" />
       <workItem from="1676127918873" duration="12247000" />
       <workItem from="1676142394663" duration="2310000" />
+      <workItem from="1676150944632" duration="43000" />
+      <workItem from="1676206150282" duration="6753000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -410,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676072680329</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="hw">
+      <created>1676150985367</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676150985367</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +453,8 @@
     <MESSAGE value="homework" />
     <MESSAGE value="homework flowers+ проработал изменения которые вы прокомментировали в репозитории" />
     <MESSAGE value="calculator servlet" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculator servlet" />
+    <MESSAGE value="hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
