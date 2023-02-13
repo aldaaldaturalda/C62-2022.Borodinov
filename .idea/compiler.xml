@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Lesson26LoginServlet" />
         <module name="Lesson10" />
         <module name="Lesson8Addition" />
         <module name="Lesson15" />
@@ -37,7 +38,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="C62-2022.Borodinov" target="1.5" />
+      <module name="C-62-2022.Borodinov" target="19" />
+      <module name="c18-onl2022.Borodinov" target="19" />
       <module name="Lessons3" target="19" />
     </bytecodeTargetLevel>
   </component>

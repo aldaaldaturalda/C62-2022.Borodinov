@@ -2,35 +2,45 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Lesson24CalculatorServlet:war exploded" />
+      <artifact name="Lesson26LoginServlet:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="calculator servlet">
-      <change afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/src/main/java/calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/src/main/java/servlet/CalculatorServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/src/main/webapp/calculator.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment=" hw26Login servlets">
+      <change afterPath="$PROJECT_DIR$/Lesson21jdbc/src/main/resources/table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/src/main/java/DocumentUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/src/main/java/DocumentUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/calculator/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/java/servlet/CalculatorServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/resources/META-INF/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24Servlet/src/main/webapp/calculator.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson10/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson10/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson12/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson12/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson13/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson13/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson14/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson14/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson15/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson16/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson16/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson18/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson19/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson19/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson20/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson20/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson20Addition/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson20Addition/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson21jdbc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson21jdbc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson22JDBC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson22JDBC/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson23/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson23/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24CalculatorServlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson25Servlet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/webapp/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/webapp/design.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson7/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8Addition/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8Addition/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestAlisgev/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestAlisgev/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +50,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -119,69 +130,34 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
+      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson26LoginServlet\src\main" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson25Servlet\src\main\webapp" />
+      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson26LoginServlet\src\main\webapp" />
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson1" />
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="LessTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LessTest" />
-      <module name="Lesson3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Lesson11" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.task2.Main" />
-      <module name="Lesson9" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task" />
-      <module name="Lesson1" />
-      <option name="PROGRAM_PARAMETERS" value="22 333 5 55 55" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="calculator.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/calculator.jsp">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="Tomcat 11.0.0-M1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M1" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="Lesson24CalculatorServlet:war exploded">
+        <artifact name="Lesson26LoginServlet:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="e46f88db-c291-4dc8-b354-21b3a7dd5787" />
+        <option name="BASE_DIRECTORY_NAME" value="0e2d04d9-43cb-4005-982e-ef827b20ab6a" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -189,7 +165,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="65513" />
+        <option name="DEBUG_PORT" value="54693" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -252,29 +228,11 @@
         </SHUTDOWN>
       </ConfigurationWrapper>
       <method v="2">
-        <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Lesson24CalculatorServlet:war exploded" />
+          <artifact name="Lesson26LoginServlet:war exploded" />
         </option>
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.LessTest" />
-      <item itemvalue="Application.Task" />
-      <item itemvalue="JavaScript Debug.calculator.jsp" />
-      <item itemvalue="Tomcat Server.Tomcat 11.0.0-M1" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="JavaScript Debug.calculator.jsp" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LessTest" />
-        <item itemvalue="Application.Task" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -301,7 +259,16 @@
       <workItem from="1675194874592" duration="6119000" />
       <workItem from="1675201136861" duration="9216000" />
       <workItem from="1676056670588" duration="8736000" />
-      <workItem from="1676070806961" duration="1561000" />
+      <workItem from="1676070806961" duration="1959000" />
+      <workItem from="1676124716835" duration="925000" />
+      <workItem from="1676127918873" duration="12247000" />
+      <workItem from="1676142394663" duration="2310000" />
+      <workItem from="1676150944632" duration="43000" />
+      <workItem from="1676206150282" duration="6753000" />
+      <workItem from="1676287352165" duration="5609000" />
+      <workItem from="1676293108888" duration="155000" />
+      <workItem from="1676293801380" duration="313000" />
+      <workItem from="1676305518185" duration="6556000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -415,7 +382,35 @@
       <option name="project" value="LOCAL" />
       <updated>1676065599324</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="calculator servlet">
+      <created>1676072680329</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676072680329</updated>
+    </task>
+    <task id="LOCAL-00018" summary="hw">
+      <created>1676150985367</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676150985367</updated>
+    </task>
+    <task id="LOCAL-00019" summary=" hw26Login servlets">
+      <created>1676291702108</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1676291702108</updated>
+    </task>
+    <task id="LOCAL-00020" summary=" hw26Login servlets">
+      <created>1676323870689</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1676323870689</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,7 +446,9 @@
     <MESSAGE value="homework" />
     <MESSAGE value="homework flowers+ проработал изменения которые вы прокомментировали в репозитории" />
     <MESSAGE value="calculator servlet" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculator servlet" />
+    <MESSAGE value="hw" />
+    <MESSAGE value=" hw26Login servlets" />
+    <option name="LAST_COMMIT_MESSAGE" value=" hw26Login servlets" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

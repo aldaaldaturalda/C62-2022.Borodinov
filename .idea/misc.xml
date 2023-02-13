@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/Lesson24CalculatorServlet" />
     <file type="web" url="file://$PROJECT_DIR$/Lesson25Servlet" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson26LoginServlet" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
