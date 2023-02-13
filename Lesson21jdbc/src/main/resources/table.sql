@@ -1,0 +1,1 @@
+create schema students_city_id_fk FOREIGN KEY (city_id) REFERENCES city (id_for_city)

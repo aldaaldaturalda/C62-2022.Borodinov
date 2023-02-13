@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Lesson26LoginServlet:war" />
+      <artifact name="Lesson26LoginServlet:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,18 +10,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment=" hw26Login servlets">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson21jdbc/src/main/resources/table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson17/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson17/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/filter/CodeFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/filter/CodeFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/filter/WebCodeFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/filter/WebCodeFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/servlets/MyHomeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/servlets/MyHomeServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/servlets/MyLoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/servlets/MyLoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson10/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson10/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson12/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson12/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson13/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson13/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson14/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson14/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson15/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson16/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson16/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson18/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson19/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson19/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson20/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson20/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson20Addition/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson20Addition/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson21jdbc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson21jdbc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson22JDBC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson22JDBC/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson23/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson23/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24CalculatorServlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson25Servlet/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/webapp/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/webapp/design.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson7/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8Addition/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8Addition/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestAlisgev/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestAlisgev/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +53,7 @@
         <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -120,6 +140,8 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson26LoginServlet\src\main" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson25Servlet\src\main\webapp" />
+      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson26LoginServlet\src\main\webapp" />
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson1" />
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
@@ -128,9 +150,9 @@
     <configuration name="Tomcat 11.0.0-M1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M1" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="Lesson26LoginServlet:war">
+        <artifact name="Lesson26LoginServlet:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/Lesson26LoginServlet_war" />
+            <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
@@ -206,9 +228,8 @@
         </SHUTDOWN>
       </ConfigurationWrapper>
       <method v="2">
-        <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Lesson26LoginServlet:war" />
+          <artifact name="Lesson26LoginServlet:war exploded" />
         </option>
       </method>
     </configuration>
@@ -247,7 +268,7 @@
       <workItem from="1676287352165" duration="5609000" />
       <workItem from="1676293108888" duration="155000" />
       <workItem from="1676293801380" duration="313000" />
-      <workItem from="1676305518185" duration="1599000" />
+      <workItem from="1676305518185" duration="6556000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -382,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676291702108</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary=" hw26Login servlets">
+      <created>1676323870689</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1676323870689</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

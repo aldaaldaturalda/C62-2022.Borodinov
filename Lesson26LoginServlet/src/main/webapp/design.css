@@ -23,6 +23,13 @@ input {
     background: green;
 }
 
+#password_btn {
+    font-family: 'Cookie', cursive;
+    font-size: 2vw;
+    color: royalblue;
+    background: black;
+}
+
 th {
     border: 1px solid blue;
     background: darkseagreen;
