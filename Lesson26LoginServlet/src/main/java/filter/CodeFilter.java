@@ -1,13 +1,12 @@
 package filter;
 
 import jakarta.servlet.*;
-import jakarta.servlet.annotation.WebFilter;
 
 import java.io.IOException;
 
-@WebFilter(filterName = "Filter")
 public class CodeFilter implements Filter {
-    public void init(FilterConfig config) throws ServletException {
+    @Override
+    public void init(FilterConfig filterConfig) throws ServletException {
         System.out.println("Filter init");
     }
 
@@ -26,3 +25,4 @@ public class CodeFilter implements Filter {
         System.out.println("Filter Destroy");
     }
 }
+

@@ -2,29 +2,25 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Lesson24CalculatorServlet:war exploded" />
+      <artifact name="Lesson26LoginServlet:war" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="hw">
-      <change afterPath="$PROJECT_DIR$/Lesson26LoginServlet/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/filter/CodeFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/filter/WebCodeFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/servlets/MyHomeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/servlets/MyLoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/webapp/design.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/webapp/redirectLogin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/webapp/web.xml" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment=" hw26Login servlets">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson17/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson17/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/filter/CodeFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/filter/CodeFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/filter/WebCodeFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/filter/WebCodeFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/servlets/MyHomeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/servlets/MyHomeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/servlets/MyLoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/java/servlets/MyLoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/webapp/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/webapp/design.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,110 +94,124 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "import_schema_mapping": "<schema-mapping>\n  <databases>\n    <list>\n      <schema-mapping-item>\n        <source-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</source-data-source-id>\n        <source-path>database/&quot;postgres&quot;/schema/&quot;city&quot;</source-path>\n        <target-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</target-data-source-id>\n        <target-path>database/&quot;postgres&quot;/schema/&quot;students_db&quot;</target-path>\n      </schema-mapping-item>\n    </list>\n  </databases>\n</schema-mapping>",
-    "jdk.selected.JAVA_MODULE": "openjdk-19 (2)",
-    "last_opened_file_path": "D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov/Lesson26LoginServlet/src/main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;import_schema_mapping&quot;: &quot;&lt;schema-mapping&gt;\n  &lt;databases&gt;\n    &lt;list&gt;\n      &lt;schema-mapping-item&gt;\n        &lt;source-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/source-data-source-id&gt;\n        &lt;source-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;city&amp;quot;&lt;/source-path&gt;\n        &lt;target-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/target-data-source-id&gt;\n        &lt;target-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;students_db&amp;quot;&lt;/target-path&gt;\n      &lt;/schema-mapping-item&gt;\n    &lt;/list&gt;\n  &lt;/databases&gt;\n&lt;/schema-mapping&gt;&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19 (2)&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson26LoginServlet\src\main" />
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
+      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson26LoginServlet\src\main" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson1" />
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 11.0.0-M1">
-    <configuration name="NumberElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberElement" />
-      <module name="Lesson5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintMatrixRandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintMatrixRandomNumbers" />
-      <module name="Lesson5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RandomDayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RandomDayElements" />
-      <module name="Lesson5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumWithoutMultiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumWithoutMultiply" />
-      <module name="Lesson5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeMassive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TreeMassive" />
-      <module name="Lesson5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tomcat 11.0.0-M1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M1" ALTERNATIVE_JRE_ENABLED="false">
+  <component name="RunManager">
+    <configuration name="Tomcat 11.0.0-M1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M1" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="Lesson24CalculatorServlet:war exploded">
+        <artifact name="Lesson26LoginServlet:war">
           <settings>
-            <option name="CONTEXT_PATH" value="/Lesson24CalculatorServlet_war_exploded" />
+            <option name="CONTEXT_PATH" value="/Lesson26LoginServlet_war" />
           </settings>
         </artifact>
       </deployment>
-      <server-settings />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="0e2d04d9-43cb-4005-982e-ef827b20ab6a" />
+      </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54693" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Lesson24CalculatorServlet:war exploded" />
+          <artifact name="Lesson26LoginServlet:war" />
         </option>
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.NumberElement" />
-      <item itemvalue="Application.PrintMatrixRandomNumbers" />
-      <item itemvalue="Application.RandomDayElements" />
-      <item itemvalue="Application.SumWithoutMultiply" />
-      <item itemvalue="Application.TreeMassive" />
-      <item itemvalue="Tomcat Server.Tomcat 11.0.0-M1" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.TreeMassive" />
-        <item itemvalue="Application.SumWithoutMultiply" />
-        <item itemvalue="Application.RandomDayElements" />
-        <item itemvalue="Application.NumberElement" />
-        <item itemvalue="Application.PrintMatrixRandomNumbers" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -234,7 +244,10 @@
       <workItem from="1676142394663" duration="2310000" />
       <workItem from="1676150944632" duration="43000" />
       <workItem from="1676206150282" duration="6753000" />
-      <workItem from="1676287352165" duration="4290000" />
+      <workItem from="1676287352165" duration="5609000" />
+      <workItem from="1676293108888" duration="155000" />
+      <workItem from="1676293801380" duration="313000" />
+      <workItem from="1676305518185" duration="1599000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -362,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676150985367</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary=" hw26Login servlets">
+      <created>1676291702108</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1676291702108</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,7 +419,8 @@
     <MESSAGE value="homework flowers+ проработал изменения которые вы прокомментировали в репозитории" />
     <MESSAGE value="calculator servlet" />
     <MESSAGE value="hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw" />
+    <MESSAGE value=" hw26Login servlets" />
+    <option name="LAST_COMMIT_MESSAGE" value=" hw26Login servlets" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
