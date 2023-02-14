@@ -9,38 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment=" hw26Login servlets">
-      <change afterPath="$PROJECT_DIR$/Lesson21jdbc/src/main/resources/table.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/Lesson7/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson7/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson7/src/main/java/model/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson7/src/main/java/servise/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson10/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson10/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson12/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson12/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson13/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson13/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson14/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson14/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson15/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson16/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson16/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson18/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson18/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson19/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson19/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson20/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson20/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson20Addition/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson20Addition/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson21jdbc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson21jdbc/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson22JDBC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson22JDBC/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson23/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson23/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24CalculatorServlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson25Servlet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/webapp/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/webapp/design.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson7/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8Addition/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8Addition/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAlisgev/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestAlisgev/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +26,8 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -122,7 +96,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;import_schema_mapping&quot;: &quot;&lt;schema-mapping&gt;\n  &lt;databases&gt;\n    &lt;list&gt;\n      &lt;schema-mapping-item&gt;\n        &lt;source-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/source-data-source-id&gt;\n        &lt;source-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;city&amp;quot;&lt;/source-path&gt;\n        &lt;target-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/target-data-source-id&gt;\n        &lt;target-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;students_db&amp;quot;&lt;/target-path&gt;\n      &lt;/schema-mapping-item&gt;\n    &lt;/list&gt;\n  &lt;/databases&gt;\n&lt;/schema-mapping&gt;&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19 (2)&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Pavel-c18onl2022&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -146,7 +120,20 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="servise.Main" />
+      <module name="Lesson7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="servise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 11.0.0-M1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M1" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -233,6 +220,11 @@
         </option>
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -268,7 +260,9 @@
       <workItem from="1676287352165" duration="5609000" />
       <workItem from="1676293108888" duration="155000" />
       <workItem from="1676293801380" duration="313000" />
-      <workItem from="1676305518185" duration="6556000" />
+      <workItem from="1676305518185" duration="6945000" />
+      <workItem from="1676371786069" duration="4384000" />
+      <workItem from="1676383339273" duration="3372000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -410,7 +404,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676323870689</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="new">
+      <created>1676329198872</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1676329198872</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update">
+      <created>1676329263923</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1676329263923</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,7 +456,9 @@
     <MESSAGE value="calculator servlet" />
     <MESSAGE value="hw" />
     <MESSAGE value=" hw26Login servlets" />
-    <option name="LAST_COMMIT_MESSAGE" value=" hw26Login servlets" />
+    <MESSAGE value="new" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
