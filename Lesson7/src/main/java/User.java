@@ -23,4 +23,19 @@ public class User {
     public void myNameSurname(String name, String surname) {
         System.out.println(name + surname);
     }
+
+    @Deprecated
+    public void mySex(String sex) {
+        System.out.println(sex);
+    }
+
+    public void myAge(int age) {
+        System.out.println(++age);
+    }
+
+    public void myPersonInfo(String name, String surname, int age, String sex) {
+        System.out.println(name + " " + surname + " " + age + " " + sex);
+    }
+
 }
+

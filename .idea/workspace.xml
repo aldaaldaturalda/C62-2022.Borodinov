@@ -9,12 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Lesson7/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson7/src/main/java/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson7/src/main/java/model/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson7/src/main/java/servise/Main.java" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="user computer lesson 7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson7/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson7/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson7/src/main/java/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson7/src/main/java/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson7/src/main/java/model/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson7/src/main/java/model/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson7/src/main/java/servise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson7/src/main/java/servise/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +120,14 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lesson7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="servise.Main" />
       <module name="Lesson7" />
@@ -222,6 +229,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -262,7 +270,10 @@
       <workItem from="1676293801380" duration="313000" />
       <workItem from="1676305518185" duration="6945000" />
       <workItem from="1676371786069" duration="4384000" />
-      <workItem from="1676383339273" duration="3372000" />
+      <workItem from="1676383339273" duration="3927000" />
+      <workItem from="1676387319023" duration="111000" />
+      <workItem from="1676451579374" duration="1155000" />
+      <workItem from="1676455782569" duration="421000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -418,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676329263923</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="user computer lesson 7">
+      <created>1676386925766</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1676386925766</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,7 +476,8 @@
     <MESSAGE value=" hw26Login servlets" />
     <MESSAGE value="new" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="user computer lesson 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="user computer lesson 7" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
