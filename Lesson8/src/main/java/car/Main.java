@@ -25,7 +25,6 @@ public class Main {
         Car[] car = {
                 new Car(new FuelTank(100), new Engine(true, 100,
                         "Benzin"), new Mileage(100), "MERCEDES", 2021, 10),
-                new Car()
         };
         System.out.println(Arrays.toString(car));
 //        car = new Car(new Engine(true, 100, "Diesel"), new FuelTank(30), "BMW", 2020);

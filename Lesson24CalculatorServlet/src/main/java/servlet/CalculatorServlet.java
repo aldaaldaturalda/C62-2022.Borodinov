@@ -25,7 +25,7 @@ public class CalculatorServlet extends HttpServlet {
             Double val1 = getResultCorrection(request, "val1");
             Double val2 = getResultCorrection(request, "val2");
             String calculationName = request.getParameter("calculationName");
-            Double result = getValue(val1, val2, calculationName);
+            Double result = calculate(val1, val2, calculationName);
             PrintWriter out = response.getWriter();
             out.println(result + "\n" + calculationName);
         } catch (NumberFormatException exception) {
@@ -41,7 +41,7 @@ public class CalculatorServlet extends HttpServlet {
         message = "Calculator destroyed";
     }
 
-    public Double getValue(Double value1, Double value2, String operationName) {
+    public Double calculate(Double value1, Double value2, String operationName) {
         return switch (operationName) {
             case "sum" -> sum(value1, value2);
             case "multiply" -> multiply(value1, value2);
