@@ -1,24 +1,15 @@
 package model;
 
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
+
+@ToString
+@AllArgsConstructor
+@Getter
+@Setter
 public class City {
-    private Student student;
-
-    public City(Student student) {
-        this.student = student;
-    }
-
-    public Student getStudent() {
-        return student;
-    }
-
-    public void setStudent(Student student) {
-        this.student = student;
-    }
-
-    @Override
-    public String toString() {
-        return "City{" +
-                "student=" + student +
-                '}';
-    }
+    private String cityName;
+    private int cityId;
 }
