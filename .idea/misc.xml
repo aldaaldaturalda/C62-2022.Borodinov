@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/Lesson24CalculatorServlet" />
     <file type="web" url="file://$PROJECT_DIR$/Lesson25Servlet" />
     <file type="web" url="file://$PROJECT_DIR$/Lesson26LoginServlet" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson27ServletDataBase" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -14,6 +15,7 @@
         <option value="$PROJECT_DIR$/Lesson3/pom.xml" />
         <option value="$PROJECT_DIR$/Lesson24Servlet/pom.xml" />
         <option value="$PROJECT_DIR$/Lesson25Servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson27ServletDataBase/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

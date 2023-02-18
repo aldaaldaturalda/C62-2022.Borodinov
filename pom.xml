@@ -83,6 +83,7 @@
         <module>Lesson25Servlet</module>
         <module>Lesson26LoginServlet</module>
         <module>TestAlisgev</module>
+        <module>Lesson27ServletDataBase</module>
     </modules>
 
     <properties>

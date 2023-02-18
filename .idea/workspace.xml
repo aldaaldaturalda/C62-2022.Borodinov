@@ -9,13 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="MilitaryOffice hw">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson21jdbc/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson21jdbc/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson21jdbc/src/main/java/model/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson21jdbc/src/main/java/model/City.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson21jdbc/src/main/java/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson21jdbc/src/main/java/model/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson21jdbc/src/main/java/utils/CRUDUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson21jdbc/src/main/java/utils/CRUDUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson21jdbc/src/main/java/utils/DbUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson21jdbc/src/main/java/utils/DbUtils.java" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="dataBaseStudents">
+      <change afterPath="$PROJECT_DIR$/Lesson27ServletDataBase/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson27ServletDataBase/src/main/java/com/example/lesson27servletdatabase/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson27ServletDataBase/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson27ServletDataBase/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +124,7 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 11.0.0-M1">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Lesson7" />
@@ -164,6 +163,27 @@
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 11.0.0-M1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M1" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="Lesson24CalculatorServlet:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Lesson24CalculatorServlet_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Lesson24CalculatorServlet:war exploded" />
+        </option>
       </method>
     </configuration>
     <recent_temporary>
@@ -221,7 +241,7 @@
       <workItem from="1676718164142" duration="4511000" />
       <workItem from="1676752422051" duration="801000" />
       <workItem from="1676753812323" duration="7169000" />
-      <workItem from="1676761284788" duration="2271000" />
+      <workItem from="1676761284788" duration="2852000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -426,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676758578738</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="dataBaseStudents">
+      <created>1676763772501</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1676763772501</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,7 +498,8 @@
     <MESSAGE value="upd homework" />
     <MESSAGE value="99" />
     <MESSAGE value="MilitaryOffice hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="MilitaryOffice hw" />
+    <MESSAGE value="dataBaseStudents" />
+    <option name="LAST_COMMIT_MESSAGE" value="dataBaseStudents" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
