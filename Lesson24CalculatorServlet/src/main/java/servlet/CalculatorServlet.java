@@ -59,6 +59,7 @@ public class CalculatorServlet extends HttpServlet {
         return Double.valueOf(calculationName);
     }
 
+
     public void println(HttpServletResponse response, String message) throws IOException {
         PrintWriter printWriter = response.getWriter();
         printWriter.println(message);
