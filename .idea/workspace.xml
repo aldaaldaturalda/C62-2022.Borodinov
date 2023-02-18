@@ -9,13 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="upd homework">
-      <change afterPath="$PROJECT_DIR$/Lesson8/src/main/java/militaryOffice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson8/src/main/java/militaryOffice/MilitaryOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson8/src/main/java/militaryOffice/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson8/src/main/java/militaryOffice/PersonRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson8/src/main/java/militaryOffice/Sex.java" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="99">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/src/main/java/militaryOffice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/src/main/java/militaryOffice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/src/main/java/militaryOffice/MilitaryOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/src/main/java/militaryOffice/MilitaryOffice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +122,7 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.militaryOffice.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Lesson7" />
@@ -146,8 +143,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="militaryOffice.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="militaryOffice.Main" />
+      <module name="Lesson8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="militaryOffice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.militaryOffice.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
       </list>
@@ -196,7 +207,9 @@
       <workItem from="1676622420570" duration="12392000" />
       <workItem from="1676665274458" duration="6848000" />
       <workItem from="1676679521110" duration="461000" />
-      <workItem from="1676718164142" duration="4489000" />
+      <workItem from="1676718164142" duration="4511000" />
+      <workItem from="1676752422051" duration="801000" />
+      <workItem from="1676753812323" duration="4304000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -387,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676679667026</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="99">
+      <created>1676728024260</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1676728024260</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -430,7 +450,8 @@
     <MESSAGE value="user computer lesson 7" />
     <MESSAGE value="123" />
     <MESSAGE value="upd homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="upd homework" />
+    <MESSAGE value="99" />
+    <option name="LAST_COMMIT_MESSAGE" value="99" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
