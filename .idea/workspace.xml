@@ -9,12 +9,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="ServletDatabaseStudNew!">
-      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/IRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/heads/SonyHeads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/heads/ToshibaHeads.java" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="robot">
+      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/interfaces/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/interfaces/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/interfaces/Messenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/interfaces/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/interfaces/Telegram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/interfaces/Viber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/interfaces/WhatsApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,9 +33,9 @@
       <list>
         <option value="Jsp File" />
         <option value="Enum" />
-        <option value="Interface" />
         <option value="package-info" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -130,13 +133,26 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework.robot.Main">
+  <component name="RunManager" selected="Application.homework.interfaces.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="car.Main" />
       <module name="Lesson8" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework.interfaces.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.interfaces.Main" />
+      <module name="Lesson10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -430,6 +446,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework.interfaces.Main" />
         <item itemvalue="Application.homework.robot.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -489,7 +506,7 @@
       <workItem from="1677071392285" duration="4218000" />
       <workItem from="1677083960966" duration="6391000" />
       <workItem from="1677109869333" duration="3059000" />
-      <workItem from="1677146105837" duration="4066000" />
+      <workItem from="1677146105837" duration="6116000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -715,7 +732,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677111651900</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="robot">
+      <created>1677161266792</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1677161266792</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -762,7 +786,8 @@
     <MESSAGE value="MilitaryOffice hw" />
     <MESSAGE value="dataBaseStudents" />
     <MESSAGE value="ServletDatabaseStudNew!" />
-    <option name="LAST_COMMIT_MESSAGE" value="ServletDatabaseStudNew!" />
+    <MESSAGE value="robot" />
+    <option name="LAST_COMMIT_MESSAGE" value="robot" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
