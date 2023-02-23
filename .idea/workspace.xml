@@ -9,40 +9,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="dataBaseStudents">
-      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/hands/IHand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/hands/SamsungHands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/hands/SonyHands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/hands/ToshibaHands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/heads/IHead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/heads/SamsungHeads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/legs/ILeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/legs/SamsungLegs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/legs/SonyLegs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/legs/ToshibaLegs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/java/fliter/LoginFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/java/listener/InitializeListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/java/models/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/java/models/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/java/repository/StudentDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/java/repository/StudentRepositoryAware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/java/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/java/servlets/CreateStudentServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/java/servlets/DatabaseServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/java/servlets/DeleteStudentServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/webapp/database.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/webapp/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/webapp/main.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="ServletDatabaseStudNew!">
+      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/IRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/heads/SonyHeads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10/src/main/java/homework/robot/heads/ToshibaHeads.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson27ServletDataBase/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson27ServletDataBase/src/main/java/com/example/lesson27servletdatabase/HelloServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson27ServletDataBase/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson27ServletDataBase/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +31,7 @@
         <option value="Jsp File" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -116,30 +90,31 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "import_schema_mapping": "<schema-mapping>\n  <databases>\n    <list>\n      <schema-mapping-item>\n        <source-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</source-data-source-id>\n        <source-path>database/&quot;postgres&quot;/schema/&quot;city&quot;</source-path>\n        <target-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</target-data-source-id>\n        <target-path>database/&quot;postgres&quot;/schema/&quot;students_db&quot;</target-path>\n      </schema-mapping-item>\n    </list>\n  </databases>\n</schema-mapping>",
-    "jdk.selected.JAVA_MODULE": "openjdk-19 (2)",
-    "last_opened_file_path": "D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov/Lesson27ServletDatabaseStud/src/main/webapp",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "service.view.auto.scroll.to.source": "true",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;import_schema_mapping&quot;: &quot;&lt;schema-mapping&gt;\n  &lt;databases&gt;\n    &lt;list&gt;\n      &lt;schema-mapping-item&gt;\n        &lt;source-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/source-data-source-id&gt;\n        &lt;source-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;city&amp;quot;&lt;/source-path&gt;\n        &lt;target-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/target-data-source-id&gt;\n        &lt;target-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;students_db&amp;quot;&lt;/target-path&gt;\n      &lt;/schema-mapping-item&gt;\n    &lt;/list&gt;\n  &lt;/databases&gt;\n&lt;/schema-mapping&gt;&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19 (2)&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov/Lesson27ServletDatabaseStud/src/main/webapp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;service.view.auto.scroll.to.source&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson27ServletDatabaseStud\src\main\webapp" />
@@ -155,7 +130,33 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.homework.robot.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="car.Main" />
+      <module name="Lesson8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework.robot.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.robot.Main" />
+      <module name="Lesson10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.robot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
       <server-settings>
@@ -427,6 +428,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.homework.robot.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -481,7 +488,8 @@
       <workItem from="1677062285475" duration="4432000" />
       <workItem from="1677071392285" duration="4218000" />
       <workItem from="1677083960966" duration="6391000" />
-      <workItem from="1677109869333" duration="1494000" />
+      <workItem from="1677109869333" duration="3059000" />
+      <workItem from="1677146105837" duration="4066000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -700,7 +708,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676764164300</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="ServletDatabaseStudNew!">
+      <created>1677111651900</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1677111651900</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -746,7 +761,8 @@
     <MESSAGE value="99" />
     <MESSAGE value="MilitaryOffice hw" />
     <MESSAGE value="dataBaseStudents" />
-    <option name="LAST_COMMIT_MESSAGE" value="dataBaseStudents" />
+    <MESSAGE value="ServletDatabaseStudNew!" />
+    <option name="LAST_COMMIT_MESSAGE" value="ServletDatabaseStudNew!" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -800,5 +816,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
