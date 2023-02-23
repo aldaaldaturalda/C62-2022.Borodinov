@@ -15,6 +15,7 @@
         <module name="Lesson17" />
         <module name="Lesson18" />
         <module name="Lesson11" />
+        <module name="Lesson27ServletDatabaseStud" />
         <module name="Lesson12" />
         <module name="Lesson13" />
         <module name="Lesson14" />
@@ -30,7 +31,6 @@
         <module name="Lesson6" />
         <module name="Lesson1" />
         <module name="Lesson3" />
-        <module name="Lesson27ServletDataBase" />
         <module name="Lesson21jdbc" />
         <module name="Lesson22JDBC" />
         <module name="Lesson23" />
@@ -41,6 +41,7 @@
     <bytecodeTargetLevel>
       <module name="C-62-2022.Borodinov" target="19" />
       <module name="c18-onl2022.Borodinov" target="19" />
+      <module name="Lesson27ServletDataBase" target="11" />
       <module name="Lessons3" target="19" />
     </bytecodeTargetLevel>
   </component>

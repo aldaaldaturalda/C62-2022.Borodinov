@@ -6,6 +6,7 @@
     <file type="web" url="file://$PROJECT_DIR$/Lesson25Servlet" />
     <file type="web" url="file://$PROJECT_DIR$/Lesson26LoginServlet" />
     <file type="web" url="file://$PROJECT_DIR$/Lesson27ServletDataBase" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson27ServletDatabaseStud" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -15,7 +16,7 @@
         <option value="$PROJECT_DIR$/Lesson3/pom.xml" />
         <option value="$PROJECT_DIR$/Lesson24Servlet/pom.xml" />
         <option value="$PROJECT_DIR$/Lesson25Servlet/pom.xml" />
-        <option value="$PROJECT_DIR$/Lesson27ServletDataBase/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson27ServletDatabaseStud/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -24,6 +25,10 @@
         <option value="$PROJECT_DIR$/Lessons3/Lesson4/pom.xml" />
       </set>
     </option>
+  </component>
+  <component name="PWA">
+    <option name="enabled" value="true" />
+    <option name="wasEnabledAtLeastOnce" value="true" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19 (2)" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
