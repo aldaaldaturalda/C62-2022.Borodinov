@@ -9,28 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="robot+inter">
-      <change afterPath="$PROJECT_DIR$/Lesson5/src/main/java/LessonMishaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L1/L1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L1/L2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L1/L3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L1/L3Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="testMisha">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/src/main/java/BirthdayCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/src/main/java/BirthdayCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5/src/main/java/LessonMishaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/src/main/java/LessonMishaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson5/src/main/java/RandomDayElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/src/main/java/RandomDayElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAlisgev/Test/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAlisgev/Test/src/main/java/AbleToMakeSound.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAlisgev/Test/src/main/java/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAlisgev/Test/src/main/java/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAlisgev/Test/src/main/java/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAlisgev/Test/src/main/java/Test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAlisgev/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeCore/src/main/java/L1/L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L1/L2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +84,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2IeiC4auP5rPieH5GcSpwDoaO1c" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -145,9 +132,29 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RandomDayElements">
+  <component name="RunManager" selected="Application.LessonMishaTest">
     <configuration name="BirthdayCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BirthdayCounter" />
+      <module name="Lesson5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L1.L2" />
+      <module name="PracticeCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessonMishaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LessonMishaTest" />
       <module name="Lesson5" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -432,12 +439,16 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.L2" />
+      <item itemvalue="Application.LessonMishaTest" />
       <item itemvalue="Application.BirthdayCounter" />
       <item itemvalue="Application.RandomDayElements" />
       <item itemvalue="Tomcat Server.Tomcat 11.0.0-M1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LessonMishaTest" />
+        <item itemvalue="Application.L2" />
         <item itemvalue="Application.RandomDayElements" />
         <item itemvalue="Application.BirthdayCounter" />
       </list>
@@ -502,7 +513,9 @@
       <workItem from="1677181089784" duration="676000" />
       <workItem from="1677323365561" duration="1523000" />
       <workItem from="1677362258992" duration="602000" />
-      <workItem from="1677410066432" duration="13721000" />
+      <workItem from="1677410066432" duration="13783000" />
+      <workItem from="1677433233118" duration="15043000" />
+      <workItem from="1677452390264" duration="1213000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -742,7 +755,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677165880944</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="testMisha">
+      <created>1677424128029</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1677424128029</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -791,7 +811,8 @@
     <MESSAGE value="ServletDatabaseStudNew!" />
     <MESSAGE value="robot" />
     <MESSAGE value="robot+inter" />
-    <option name="LAST_COMMIT_MESSAGE" value="robot+inter" />
+    <MESSAGE value="testMisha" />
+    <option name="LAST_COMMIT_MESSAGE" value="testMisha" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

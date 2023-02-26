@@ -18,14 +18,15 @@ public class L2 {
 //        for (int k = 11; k <= 99; k= k + 11) { // нужно в обратном порядке
 //            System.out.println("Hi"+k);
 //        }
-//        for (int l = 99; l >=11 ; l= l - 11) {
-//        System.out.println("Hi"+ l);
+        for (int l = 99; l >= 11; l = l - 11) {//l-=11
+            System.out.println("Hi" + l);
 //        }
 //        for (int m = 2; m <=52 ; m= m+2) {
 //            System.out.println("Nihao"+ m);
 //        }
-        for (int n = 3; n <= 66; n = n + 3) {
-            System.out.println(n);
+//            for (int n = 3; n <= 66; n = n + 3) {
+//                System.out.println(n);
+//            }
         }
     }
 }
