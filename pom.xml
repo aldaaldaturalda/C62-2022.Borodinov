@@ -92,7 +92,7 @@
         <module>Lesson24CalculatorServlet</module>
         <module>Lesson25Servlet</module>
         <module>Lesson26LoginServlet</module>
-        <module>TestAlisgev</module>
+        <module>PracticeCore</module>
         <module>Lesson27ServletDatabaseStud</module>
     </modules>
 

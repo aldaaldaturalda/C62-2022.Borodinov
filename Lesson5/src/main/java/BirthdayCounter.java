@@ -14,7 +14,7 @@ public class BirthdayCounter {
         if (month == 12 && date >= 23 || month == 1 && date <= 20) { //Козерог (23 декабря - 20 января)
             System.out.println("Capricorn");
         } else if (month == 1 && date >= 21 || month == 2 && date <= 19) { //Водолей (21 января - 19 февраля)
-            System.out.println("Aquarius");
+            System.out.println("водолей");
         } else if (month == 2 && date >= 20 || month == 3 && date <= 20) { //Рыбы (20 февраля - 20 марта)
             System.out.println("Pisces");
         } else if (month == 3 && date >= 21 || month == 4 && date <= 20) { //Овен (21 марта - 20 апреля)
