@@ -9,11 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="testMisha">
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Phone.java" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="у кабана">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/src/main/java/LessonMishaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/src/main/java/LessonMishaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeCore/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeCore/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Phone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -533,7 +531,7 @@
       <workItem from="1677512111854" duration="351000" />
       <workItem from="1677581745387" duration="3698000" />
       <workItem from="1677585576357" duration="1697000" />
-      <workItem from="1677587301134" duration="11849000" />
+      <workItem from="1677587301134" duration="13760000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -787,7 +785,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677453860186</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="у кабана">
+      <created>1677600154406</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1677600154406</updated>
+    </task>
+    <task id="LOCAL-00038" summary="у кабана">
+      <created>1677600165891</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1677600165891</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -837,7 +849,8 @@
     <MESSAGE value="robot" />
     <MESSAGE value="robot+inter" />
     <MESSAGE value="testMisha" />
-    <option name="LAST_COMMIT_MESSAGE" value="testMisha" />
+    <MESSAGE value="у кабана" />
+    <option name="LAST_COMMIT_MESSAGE" value="у кабана" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

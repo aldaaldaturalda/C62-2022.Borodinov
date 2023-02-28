@@ -35,20 +35,15 @@ public class Phone {
         Phone phone = new Phone(80447345542l, "Iphone", 300);
         Phone phone1 = new Phone(804445454444l, "Samsung", 333);
         Phone phone2 = new Phone(80331111111l, "Nokia", 500);
-        receiveCall("Коля ", phone.number);
-//        receiveCall("Петя", phone1.number);
-//        receiveCall("Алекс", phone2.number);
+        receiveCall("Коля ", phone.getNumber());
+        receiveCall("Петя ", phone1.getNumber());
+        receiveCall("Алекс ", phone2.getNumber());
 //        phone.sendMessage("Привет как дела?", "80447345542");
         phone.sendMessage("У кабана? ", "80447345542", "804445454444", "80331111111");
     }
 
-    public static void receiveCall(String name, long number) {
-        System.out.println("“Звонит ”" + name + number);
-
-    }
-
-    public long getNumber() {
-        return number;
+    public static void receiveCall(String name, long getNumber) {
+        System.out.println("“Звонит ”" + name + getNumber);
     }
 
     void sendMessage(String message, String... numbers) {
