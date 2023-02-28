@@ -7,7 +7,6 @@ strings.add("zxcvfj");
  */
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class LessonMishaTest {
@@ -17,8 +16,9 @@ public class LessonMishaTest {
         strings.add("asdfhj");
         strings.add("bgbubilqelgvuiqa");
         strings.add("zxcvfjvvvvvvvvvvvvvvvvvvv");
-        strings.stream()
-                .map(s -> Arrays.stream(s.split("")).distinct().count())
-                .forEach(System.out::println);
+        System.out.println(strings.stream().flatMapToInt(String::chars).distinct().count());
+//        strings.stream()
+//                .map(s -> Arrays.stream(s.split("")).distinct().count())
+//                .forEach(System.out::println);
     }
 }
