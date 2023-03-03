@@ -6,4 +6,9 @@ public class Battery implements FunctionImpl {
         System.out.println("Дай мне другую подзарядку для Android");
     }
 
+    @Override
+    public void getOperationSystem() {
+        System.out.println("Operation system for Battery");
+    }
+
 }

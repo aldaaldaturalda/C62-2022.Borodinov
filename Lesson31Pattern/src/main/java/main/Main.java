@@ -43,6 +43,7 @@ public class Main {
         robokop.createHead().getFunction();
         robokop.createLeg().getFunction();
         robokop.createlifeCount().getFunction();
+        robokop.createHead().getOperationSystem();
     }
 
     static CreateFactoryForWarriorsImpl createFactoryDoWarriors(String type) {

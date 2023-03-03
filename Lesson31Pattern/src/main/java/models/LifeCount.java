@@ -5,4 +5,9 @@ public class LifeCount implements FunctionImpl {
         System.out.println("Посмотри на счетчик!!!");
     }
 
+    @Override
+    public void getOperationSystem() {
+        System.out.println("Operation system for LifeCount");
+    }
+
 }
