@@ -1,9 +1,6 @@
 package main;
 
-import models.CreateFactoryDoWarriorsImpl;
-import models.SquadElf;
-import models.SquadOrk;
-import models.SquadPeople;
+import models.*;
 
 /*
 Написать программу, эмулирующую компьютерную игру.
@@ -40,6 +37,8 @@ public class Main {
         elf.createWarrior().getTypeOfWeapon();
         elf.createArcher().getTypeOfWeapon();
         elf.createWizard().getTypeOfWeapon();
+        System.out.println("!!!!");
+
     }
 
     static CreateFactoryDoWarriorsImpl createFactoryDoWarriors(String type) {
@@ -51,6 +50,14 @@ public class Main {
             return new SquadPeople();
         } else {
             throw new RuntimeException(type + "Have no person what you wanted ");
+        }
+    }
+
+    static CreateRobokopPartsImpl createRobokop(String robotType) {
+        if (robotType.equalsIgnoreCase("rObokop")) {
+            return new Robokop();
+        } else {
+            throw new RuntimeException(robotType + "Have no robokop ");
         }
     }
 }
