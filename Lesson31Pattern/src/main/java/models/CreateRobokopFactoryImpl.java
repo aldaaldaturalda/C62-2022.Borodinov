@@ -8,5 +8,4 @@ public interface CreateRobokopFactoryImpl {
     Battery createBattery();
 
     LifeCount createlifeCount();
-
 }

@@ -1,5 +1,5 @@
 package models;
 
-public interface Function {
+public interface FunctionImpl {
     void getFunction();
 }

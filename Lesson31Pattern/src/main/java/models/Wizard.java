@@ -5,4 +5,9 @@ public class Wizard implements CreateTypeOfWeapons {
     public void getTypeOfWeapon() {
         System.out.println("Маг колдует");
     }
+
+    @Override
+    public void skillSpeed() {
+        System.out.println("Speed 20");
+    }
 }
