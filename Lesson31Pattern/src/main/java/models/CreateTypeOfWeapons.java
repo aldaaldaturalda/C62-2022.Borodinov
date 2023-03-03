@@ -1,5 +1,5 @@
 package models;
 
-public interface CreateTypeOfWarriors {
+public interface CreateTypeOfWeapons {
     void getTypeOfWeapon();
 }

@@ -23,17 +23,17 @@ public class Main {
 //        squadElf.createArcher().GetTypeOfWeapon();
 //        squadElf.createWarrior().GetTypeOfWeapon();
 //        squadElf.createWizard().GetTypeOfWeapon();
-        CreateFactoryDoWarriorsImpl ork = createFactoryDoWarriors("squadork");
+        CreateFactoryForWarriorsImpl ork = createFactoryDoWarriors("squadork");
         ork.createWarrior().getTypeOfWeapon();
         ork.createArcher().getTypeOfWeapon();
         ork.createWizard().getTypeOfWeapon();
         System.out.println("!!!");
-        CreateFactoryDoWarriorsImpl people = createFactoryDoWarriors("squadpeople");
+        CreateFactoryForWarriorsImpl people = createFactoryDoWarriors("squadpeople");
         people.createWizard().getTypeOfWeapon();
         people.createArcher().getTypeOfWeapon();
         people.createWarrior().getTypeOfWeapon();
         System.out.println("!!!");
-        CreateFactoryDoWarriorsImpl elf = createFactoryDoWarriors("squadelf");
+        CreateFactoryForWarriorsImpl elf = createFactoryDoWarriors("squadelf");
         elf.createWarrior().getTypeOfWeapon();
         elf.createArcher().getTypeOfWeapon();
         elf.createWizard().getTypeOfWeapon();
@@ -45,7 +45,7 @@ public class Main {
         robokop.createlifeCount().getFunction();
     }
 
-    static CreateFactoryDoWarriorsImpl createFactoryDoWarriors(String type) {
+    static CreateFactoryForWarriorsImpl createFactoryDoWarriors(String type) {
         if (type.equalsIgnoreCase("Squadork")) {
             return new SquadOrk();
         } else if (type.equalsIgnoreCase("SquadElf")) {

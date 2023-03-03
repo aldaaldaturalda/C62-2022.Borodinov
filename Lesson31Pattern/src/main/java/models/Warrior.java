@@ -1,6 +1,6 @@
 package models;
 
-public class Warrior implements CreateTypeOfWarriors {
+public class Warrior implements CreateTypeOfWeapons {
 
     @Override
     public void getTypeOfWeapon() {

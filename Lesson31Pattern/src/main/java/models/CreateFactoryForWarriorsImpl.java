@@ -1,6 +1,6 @@
 package models;
 
-public interface CreateFactoryDoWarriorsImpl {
+public interface CreateFactoryForWarriorsImpl {
     Archer createArcher();
 
     Wizard createWizard();
