@@ -9,17 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment=" hw26Login servlets">
-      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Function.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Head.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Head.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Leg.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Leg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/LifeCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/LifeCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/SquadElf.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/SquadElf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/SquadOrk.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/SquadOrk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/SquadPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/SquadPeople.java" afterDir="false" />
-    </list>
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment=" hw26Login servlets" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -858,7 +848,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677864376393</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary=" hw26Login servlets">
+      <created>1677864755963</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1677864755963</updated>
+    </task>
+    <task id="LOCAL-00044" summary=" hw26Login servlets">
+      <created>1677864806080</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1677864806080</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
