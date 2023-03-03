@@ -26,23 +26,23 @@ public class Main {
 //        squadElf.createArcher().GetTypeOfWeapon();
 //        squadElf.createWarrior().GetTypeOfWeapon();
 //        squadElf.createWizard().GetTypeOfWeapon();
-        CreateFactoryDoWarriorsImpl createTypeOfWarriors = CreateTypeOfWarriors("squadork");
-        createTypeOfWarriors.createArcher().GetTypeOfWeapon();
-        createTypeOfWarriors.createWizard().GetTypeOfWeapon();
-        createTypeOfWarriors.createWarrior().GetTypeOfWeapon();
+        CreateFactoryDoWarriorsImpl ork = createFactoryDoWarriors("squadork");
+        ork.createWarrior().getTypeOfWeapon();
+        ork.createArcher().getTypeOfWeapon();
+        ork.createWizard().getTypeOfWeapon();
         System.out.println("!!!");
-        CreateFactoryDoWarriorsImpl people = CreateTypeOfWarriors("squadpeople");
-        createTypeOfWarriors.createWarrior().GetTypeOfWeapon();
-        createTypeOfWarriors.createWizard().GetTypeOfWeapon();
-        createTypeOfWarriors.createArcher().GetTypeOfWeapon();
+        CreateFactoryDoWarriorsImpl people = createFactoryDoWarriors("squadpeople");
+        people.createWizard().getTypeOfWeapon();
+        people.createArcher().getTypeOfWeapon();
+        people.createWarrior().getTypeOfWeapon();
         System.out.println("!!!");
-        CreateFactoryDoWarriorsImpl elf = CreateTypeOfWarriors("squadelf");
-        createTypeOfWarriors.createWizard().GetTypeOfWeapon();
-        createTypeOfWarriors.createArcher().GetTypeOfWeapon();
-        createTypeOfWarriors.createWarrior().GetTypeOfWeapon();
+        CreateFactoryDoWarriorsImpl elf = createFactoryDoWarriors("squadelf");
+        elf.createWarrior().getTypeOfWeapon();
+        elf.createArcher().getTypeOfWeapon();
+        elf.createWizard().getTypeOfWeapon();
     }
 
-    static CreateFactoryDoWarriorsImpl CreateTypeOfWarriors(String type) {
+    static CreateFactoryDoWarriorsImpl createFactoryDoWarriors(String type) {
         if (type.equalsIgnoreCase("Squadork")) {
             return new SquadOrk();
         } else if (type.equalsIgnoreCase("SquadElf")) {

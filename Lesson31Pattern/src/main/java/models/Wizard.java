@@ -2,7 +2,7 @@ package models;
 
 public class Wizard implements CreateTypeOfWarriors {
     @Override
-    public void GetTypeOfWeapon() {
+    public void getTypeOfWeapon() {
         System.out.println("Маг колдует");
     }
 }

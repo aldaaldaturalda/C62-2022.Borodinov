@@ -2,7 +2,7 @@ package models;
 
 public class Archer implements CreateTypeOfWarriors {
     @Override
-    public void GetTypeOfWeapon() {
+    public void getTypeOfWeapon() {
         System.out.println("Лучник стреляет из лука");
     }
 }
