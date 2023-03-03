@@ -10,8 +10,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="у кабана">
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateFactoryDoWarriorsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateTypeOfWarriors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/SquadElf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/SquadOrk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/SquadPeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Wizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Kettle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +41,8 @@
         <option value="Jsp File" />
         <option value="Enum" />
         <option value="package-info" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -115,6 +129,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="OrcSquad" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson27ServletDatabaseStud\src\main\webapp" />
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson27ServletDatabaseStud\src\main\java" />
@@ -129,10 +146,16 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Phone">
-    <configuration name="BirthdayCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BirthdayCounter" />
-      <module name="Lesson5" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Kettle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L2.Kettle" />
+      <module name="PracticeCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -157,6 +180,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Lesson31Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L2.Phone" />
       <module name="PracticeCore" />
@@ -166,13 +202,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RandomDayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RandomDayElements" />
-      <module name="Lesson5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -449,20 +478,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Kettle" />
       <item itemvalue="Application.Phone" />
       <item itemvalue="Application.L2" />
       <item itemvalue="Application.LessonMishaTest" />
-      <item itemvalue="Application.BirthdayCounter" />
-      <item itemvalue="Application.RandomDayElements" />
       <item itemvalue="Tomcat Server.Tomcat 11.0.0-M1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Kettle" />
         <item itemvalue="Application.Phone" />
         <item itemvalue="Application.LessonMishaTest" />
         <item itemvalue="Application.L2" />
-        <item itemvalue="Application.RandomDayElements" />
-        <item itemvalue="Application.BirthdayCounter" />
       </list>
     </recent_temporary>
   </component>
@@ -531,7 +560,13 @@
       <workItem from="1677512111854" duration="351000" />
       <workItem from="1677581745387" duration="3698000" />
       <workItem from="1677585576357" duration="1697000" />
-      <workItem from="1677587301134" duration="13760000" />
+      <workItem from="1677587301134" duration="14045000" />
+      <workItem from="1677669359108" duration="4268000" />
+      <workItem from="1677687485931" duration="908000" />
+      <workItem from="1677776872156" duration="3198000" />
+      <workItem from="1677781534727" duration="577000" />
+      <workItem from="1677842294896" duration="3883000" />
+      <workItem from="1677846236630" duration="8708000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -799,7 +834,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677600165891</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="у кабана">
+      <created>1677602229550</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1677602229550</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

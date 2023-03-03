@@ -38,7 +38,7 @@ public class Phone {
         receiveCall("Коля ", phone.getNumber());
         receiveCall("Петя ", phone1.getNumber());
         receiveCall("Алекс ", phone2.getNumber());
-//        phone.sendMessage("Привет как дела?", "80447345542");
+//        phone1.sendMessage("Привет как дела?", "80447345542");
         phone.sendMessage("У кабана? ", "80447345542", "804445454444", "80331111111");
     }
 

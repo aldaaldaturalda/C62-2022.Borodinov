@@ -31,6 +31,7 @@
         <module name="Lesson6" />
         <module name="Lesson1" />
         <module name="Lesson3" />
+        <module name="Lesson31Pattern" />
         <module name="Lesson21jdbc" />
         <module name="Lesson22JDBC" />
         <module name="Lesson23" />

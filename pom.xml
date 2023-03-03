@@ -94,6 +94,7 @@
         <module>Lesson26LoginServlet</module>
         <module>PracticeCore</module>
         <module>Lesson27ServletDatabaseStud</module>
+        <module>Lesson31Pattern</module>
     </modules>
 
     <properties>
