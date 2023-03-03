@@ -1,13 +1,8 @@
 package models;
 
-import lombok.Getter;
-import lombok.Setter;
-import lombok.ToString;
+public class RobokopMax implements CreateRobokopFactoryImpl {
 
-@Getter
-@Setter
-@ToString
-public class Robokop implements CreateRobokopFactoryImpl {
+
     @Override
     public Head createHead() {
         return new Head();
@@ -28,5 +23,3 @@ public class Robokop implements CreateRobokopFactoryImpl {
         return new LifeCount();
     }
 }
-
-

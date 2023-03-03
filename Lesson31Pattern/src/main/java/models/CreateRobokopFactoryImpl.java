@@ -1,6 +1,12 @@
 package models;
 
 public interface CreateRobokopFactoryImpl {
-    Robokop createRobokop();
+    Head createHead();
+
+    Leg createLeg();
+
+    Battery createBattery();
+
+    LifeCount createlifeCount();
 
 }

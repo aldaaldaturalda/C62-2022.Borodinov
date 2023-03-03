@@ -38,7 +38,11 @@ public class Main {
         elf.createArcher().getTypeOfWeapon();
         elf.createWizard().getTypeOfWeapon();
         System.out.println("!!!!");
-
+        CreateRobokopFactoryImpl robokop = createRobokop("Robokop");
+        robokop.createBattery().getFunction();
+        robokop.createHead().getFunction();
+        robokop.createLeg().getFunction();
+        robokop.createlifeCount().getFunction();
     }
 
     static CreateFactoryDoWarriorsImpl createFactoryDoWarriors(String type) {
@@ -53,7 +57,7 @@ public class Main {
         }
     }
 
-    static CreateRobokopPartsImpl createRobokop(String robotType) {
+    static CreateRobokopFactoryImpl createRobokop(String robotType) {
         if (robotType.equalsIgnoreCase("rObokop")) {
             return new Robokop();
         } else {

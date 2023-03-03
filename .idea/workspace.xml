@@ -9,16 +9,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="pattern">
-      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Battery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateRobokopFactoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateRobokopPartsImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Head.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Leg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/LifeCount.java" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="113">
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/RobokopMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/RobokopMin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/main/Robokop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Robokop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Battery.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Battery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateRobokopFactoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateRobokopFactoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateRobokopPartsImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Head.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Head.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Leg.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Leg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/LifeCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/LifeCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Robokop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Robokop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +37,8 @@
         <option value="Jsp File" />
         <option value="Enum" />
         <option value="package-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -562,7 +565,7 @@
       <workItem from="1677842294896" duration="3883000" />
       <workItem from="1677846236630" duration="13398000" />
       <workItem from="1677861747899" duration="1540000" />
-      <workItem from="1677863347102" duration="380000" />
+      <workItem from="1677863347102" duration="3794000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -851,7 +854,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677858415900</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="fdff">
+      <created>1677863759592</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1677863759592</updated>
+    </task>
+    <task id="LOCAL-00043" summary="113">
+      <created>1677863816500</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1677863816500</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -903,7 +920,9 @@
     <MESSAGE value="testMisha" />
     <MESSAGE value="у кабана" />
     <MESSAGE value="pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="pattern" />
+    <MESSAGE value="fdff" />
+    <MESSAGE value="113" />
+    <option name="LAST_COMMIT_MESSAGE" value="113" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

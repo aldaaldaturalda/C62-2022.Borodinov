@@ -1,12 +1,8 @@
 package models;
 
-public class Head implements CreateRobokopPartsImpl {
-    public void getFunction(String info) {
-        if (info == null) {
-            System.out.println("у птички  нет яичек");
-        } else {
-              System.out.println("есть яичко у орленка");
-        }
+public class Head implements Function {
+    public void getFunction() {
+        System.out.println("О прикольно теперь и голова появилась!!!");
 
     }
 }
