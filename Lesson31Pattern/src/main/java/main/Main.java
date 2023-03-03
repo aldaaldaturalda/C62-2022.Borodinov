@@ -23,17 +23,17 @@ public class Main {
 //        squadElf.createArcher().GetTypeOfWeapon();
 //        squadElf.createWarrior().GetTypeOfWeapon();
 //        squadElf.createWizard().GetTypeOfWeapon();
-        CreateFactoryDoSquadImpl ork = createFactoryDoWarriors("squadork");
+        CreateFactoryDoWarriorsImpl ork = createFactoryDoWarriors("squadork");
         ork.createWarrior().getTypeOfWeapon();
         ork.createArcher().getTypeOfWeapon();
         ork.createWizard().getTypeOfWeapon();
         System.out.println("!!!");
-        CreateFactoryDoSquadImpl people = createFactoryDoWarriors("squadpeople");
+        CreateFactoryDoWarriorsImpl people = createFactoryDoWarriors("squadpeople");
         people.createWizard().getTypeOfWeapon();
         people.createArcher().getTypeOfWeapon();
         people.createWarrior().getTypeOfWeapon();
         System.out.println("!!!");
-        CreateFactoryDoSquadImpl elf = createFactoryDoWarriors("squadelf");
+        CreateFactoryDoWarriorsImpl elf = createFactoryDoWarriors("squadelf");
         elf.createWarrior().getTypeOfWeapon();
         elf.createArcher().getTypeOfWeapon();
         elf.createWizard().getTypeOfWeapon();
@@ -41,7 +41,7 @@ public class Main {
 
     }
 
-    static CreateFactoryDoSquadImpl createFactoryDoWarriors(String type) {
+    static CreateFactoryDoWarriorsImpl createFactoryDoWarriors(String type) {
         if (type.equalsIgnoreCase("Squadork")) {
             return new SquadOrk();
         } else if (type.equalsIgnoreCase("SquadElf")) {

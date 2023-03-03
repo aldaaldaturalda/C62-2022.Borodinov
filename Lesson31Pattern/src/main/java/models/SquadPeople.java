@@ -1,6 +1,6 @@
 package models;
 
-public class SquadPeople implements CreateFactoryDoSquadImpl {
+public class SquadPeople implements CreateFactoryDoWarriorsImpl {
     @Override
     public Archer createArcher() {
         return new Archer();

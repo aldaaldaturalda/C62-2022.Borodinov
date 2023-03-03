@@ -1,6 +1,6 @@
 package models;
 
-public class Head implements CreateRobokopFactoryImpl {
+public class Head {
     public void getFunction(String info) {
         if (info == null) {
             System.out.println("у птички  нет яичек");
