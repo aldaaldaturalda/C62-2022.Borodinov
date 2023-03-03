@@ -18,6 +18,7 @@ import models.*;
 Используя паттерн проектирования Abstract Factory, реализовать персонажей игры и их действия.
  */
 public class Main {
+
     public static void main(String[] args) {
 //        CreateFactoryDoWarriorsImpl squadElf = new SquadElf();
 //        squadElf.createArcher().GetTypeOfWeapon();
