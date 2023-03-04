@@ -10,16 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="patternHW">
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Archer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Archer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Battery.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Battery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateRobokopFactoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateRobokopFactoryImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateTypeOfWeapons.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateTypeOfWeapons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/FunctionImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Head.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Head.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Leg.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Leg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/LifeCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/LifeCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Warrior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Wizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Wizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/QuestionMisha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +114,7 @@
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;service.view.auto.scroll.to.source&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -141,9 +137,9 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Kettle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L2.Kettle" />
+  <component name="RunManager" selected="Application.Question2">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L2.Example" />
       <module name="PracticeCore" />
       <extension name="coverage">
         <pattern>
@@ -155,41 +151,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L1.L2" />
-      <module name="PracticeCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="L1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LessonMishaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LessonMishaTest" />
-      <module name="Lesson5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="Lesson31Pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="models.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L2.Phone" />
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L2.Example2" />
       <module name="PracticeCore" />
       <extension name="coverage">
         <pattern>
@@ -197,6 +160,39 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exaple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L2.Exaple" />
+      <module name="PracticeCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L2.Question2" />
+      <module name="PracticeCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionMisha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuestionMisha" />
+      <module name="PracticeCore" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -473,20 +469,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Kettle" />
-      <item itemvalue="Application.Phone" />
-      <item itemvalue="Application.L2" />
-      <item itemvalue="Application.LessonMishaTest" />
+      <item itemvalue="Application.Question2" />
+      <item itemvalue="Application.QuestionMisha" />
+      <item itemvalue="Application.Example" />
+      <item itemvalue="Application.Example2" />
+      <item itemvalue="Application.Exaple" />
       <item itemvalue="Tomcat Server.Tomcat 11.0.0-M1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Kettle" />
-        <item itemvalue="Application.Phone" />
-        <item itemvalue="Application.LessonMishaTest" />
-        <item itemvalue="Application.L2" />
+        <item itemvalue="Application.Question2" />
+        <item itemvalue="Application.QuestionMisha" />
+        <item itemvalue="Application.Example2" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.Exaple" />
       </list>
     </recent_temporary>
   </component>
@@ -563,7 +559,10 @@
       <workItem from="1677842294896" duration="3883000" />
       <workItem from="1677846236630" duration="13398000" />
       <workItem from="1677861747899" duration="1540000" />
-      <workItem from="1677863347102" duration="4911000" />
+      <workItem from="1677863347102" duration="6028000" />
+      <workItem from="1677925656415" duration="1654000" />
+      <workItem from="1677927397541" duration="6471000" />
+      <workItem from="1677936613685" duration="3606000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -880,7 +879,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677867761517</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="patternHW">
+      <created>1677868289714</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1677868289714</updated>
+    </task>
+    <task id="LOCAL-00047" summary="patternHW">
+      <created>1677868565982</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1677868565982</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
