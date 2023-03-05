@@ -2,58 +2,41 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Lesson26LoginServlet:war exploded" />
+      <artifact name="Lesson27ServletDatabaseStud:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment=" hw26Login servlets">
-      <change afterPath="$PROJECT_DIR$/Lesson21jdbc/src/main/resources/table.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson10/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson10/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson12/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson12/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson13/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson13/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson14/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson14/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson15/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson16/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson16/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson18/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson18/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson19/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson19/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson20/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson20/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson20Addition/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson20Addition/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson21jdbc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson21jdbc/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson22JDBC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson22JDBC/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson23/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson23/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson24CalculatorServlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson24CalculatorServlet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson25Servlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson25Servlet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/webapp/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/src/main/webapp/design.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson7/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8Addition/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8Addition/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAlisgev/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestAlisgev/pom.xml" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="patternHW">
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Archer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Archer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Battery.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Battery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateRobokopFactoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateRobokopFactoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateTypeOfWeapons.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateTypeOfWeapons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/FunctionImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Head.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Head.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Leg.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Leg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/LifeCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/LifeCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Wizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Wizard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jsp File" />
         <option value="Enum" />
+        <option value="package-info" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -106,13 +89,16 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2IeiC4auP5rPieH5GcSpwDoaO1c" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
@@ -122,22 +108,31 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;import_schema_mapping&quot;: &quot;&lt;schema-mapping&gt;\n  &lt;databases&gt;\n    &lt;list&gt;\n      &lt;schema-mapping-item&gt;\n        &lt;source-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/source-data-source-id&gt;\n        &lt;source-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;city&amp;quot;&lt;/source-path&gt;\n        &lt;target-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/target-data-source-id&gt;\n        &lt;target-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;students_db&amp;quot;&lt;/target-path&gt;\n      &lt;/schema-mapping-item&gt;\n    &lt;/list&gt;\n  &lt;/databases&gt;\n&lt;/schema-mapping&gt;&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19 (2)&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov/Lesson27ServletDatabaseStud/src/main/webapp&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;service.view.auto.scroll.to.source&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="models" />
+      <recent name="OrcSquad" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
-      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson26LoginServlet\src\main" />
+      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson27ServletDatabaseStud\src\main\webapp" />
+      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson27ServletDatabaseStud\src\main\java" />
+      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson27ServletDataBase\src\main\java\webapp\WEB-INF" />
+      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson27ServletDataBase\src\main" />
+      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson27ServletDataBase\src\main\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson25Servlet\src\main\webapp" />
@@ -146,18 +141,70 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Tomcat 11.0.0-M1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M1" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment>
-        <artifact name="Lesson26LoginServlet:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Kettle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L2.Kettle" />
+      <module name="PracticeCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L1.L2" />
+      <module name="PracticeCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessonMishaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LessonMishaTest" />
+      <module name="Lesson5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Lesson31Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L2.Phone" />
+      <module name="PracticeCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="0e2d04d9-43cb-4005-982e-ef827b20ab6a" />
+        <option name="BASE_DIRECTORY_NAME" value="582b4768-50c9-42db-98d5-3103517ca360" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -165,7 +212,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="54693" />
+        <option name="DEBUG_PORT" value="52625" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -228,11 +275,220 @@
         </SHUTDOWN>
       </ConfigurationWrapper>
       <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 11.0.0-M1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M1" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Lesson27ServletDatabaseStud:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="d5f09074-7158-47a0-92db-9c747d3cf7c2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52626" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Lesson26LoginServlet:war exploded" />
+          <artifact name="Lesson27ServletDatabaseStud:war exploded" />
         </option>
       </method>
     </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="c9beba76-4f9e-4a36-8c03-c9cfb1bada24" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52626" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52627" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Kettle" />
+      <item itemvalue="Application.Phone" />
+      <item itemvalue="Application.L2" />
+      <item itemvalue="Application.LessonMishaTest" />
+      <item itemvalue="Tomcat Server.Tomcat 11.0.0-M1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Kettle" />
+        <item itemvalue="Application.Phone" />
+        <item itemvalue="Application.LessonMishaTest" />
+        <item itemvalue="Application.L2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -268,7 +524,46 @@
       <workItem from="1676287352165" duration="5609000" />
       <workItem from="1676293108888" duration="155000" />
       <workItem from="1676293801380" duration="313000" />
-      <workItem from="1676305518185" duration="6556000" />
+      <workItem from="1676305518185" duration="6945000" />
+      <workItem from="1676371786069" duration="4384000" />
+      <workItem from="1676383339273" duration="3927000" />
+      <workItem from="1676387319023" duration="111000" />
+      <workItem from="1676451579374" duration="1155000" />
+      <workItem from="1676455782569" duration="1267000" />
+      <workItem from="1676622420570" duration="12392000" />
+      <workItem from="1676665274458" duration="6848000" />
+      <workItem from="1676679521110" duration="461000" />
+      <workItem from="1676718164142" duration="4511000" />
+      <workItem from="1676752422051" duration="801000" />
+      <workItem from="1676753812323" duration="7169000" />
+      <workItem from="1676761284788" duration="2924000" />
+      <workItem from="1676812607790" duration="2141000" />
+      <workItem from="1676892347695" duration="3716000" />
+      <workItem from="1677024590293" duration="1643000" />
+      <workItem from="1677062285475" duration="4432000" />
+      <workItem from="1677071392285" duration="4218000" />
+      <workItem from="1677083960966" duration="6391000" />
+      <workItem from="1677109869333" duration="3059000" />
+      <workItem from="1677146105837" duration="6142000" />
+      <workItem from="1677177885672" duration="1276000" />
+      <workItem from="1677181089784" duration="676000" />
+      <workItem from="1677323365561" duration="1523000" />
+      <workItem from="1677362258992" duration="602000" />
+      <workItem from="1677410066432" duration="13783000" />
+      <workItem from="1677433233118" duration="15043000" />
+      <workItem from="1677452390264" duration="1454000" />
+      <workItem from="1677512111854" duration="351000" />
+      <workItem from="1677581745387" duration="3698000" />
+      <workItem from="1677585576357" duration="1697000" />
+      <workItem from="1677587301134" duration="14045000" />
+      <workItem from="1677669359108" duration="4268000" />
+      <workItem from="1677687485931" duration="908000" />
+      <workItem from="1677776872156" duration="3198000" />
+      <workItem from="1677781534727" duration="577000" />
+      <workItem from="1677842294896" duration="3883000" />
+      <workItem from="1677846236630" duration="13398000" />
+      <workItem from="1677861747899" duration="1540000" />
+      <workItem from="1677863347102" duration="4911000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -410,7 +705,182 @@
       <option name="project" value="LOCAL" />
       <updated>1676323870689</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="new">
+      <created>1676329198872</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1676329198872</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update">
+      <created>1676329263923</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1676329263923</updated>
+    </task>
+    <task id="LOCAL-00023" summary="user computer lesson 7">
+      <created>1676386925766</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1676386925766</updated>
+    </task>
+    <task id="LOCAL-00024" summary="user computer lesson 7">
+      <created>1676456308219</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1676456308219</updated>
+    </task>
+    <task id="LOCAL-00025" summary="123">
+      <created>1676677201465</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1676677201465</updated>
+    </task>
+    <task id="LOCAL-00026" summary="123">
+      <created>1676679603784</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1676679603785</updated>
+    </task>
+    <task id="LOCAL-00027" summary="upd homework">
+      <created>1676679667026</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1676679667026</updated>
+    </task>
+    <task id="LOCAL-00028" summary="99">
+      <created>1676728024260</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1676728024260</updated>
+    </task>
+    <task id="LOCAL-00029" summary="MilitaryOffice hw">
+      <created>1676758578738</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1676758578738</updated>
+    </task>
+    <task id="LOCAL-00030" summary="dataBaseStudents">
+      <created>1676763772501</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1676763772501</updated>
+    </task>
+    <task id="LOCAL-00031" summary="dataBaseStudents">
+      <created>1676764164300</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1676764164300</updated>
+    </task>
+    <task id="LOCAL-00032" summary="ServletDatabaseStudNew!">
+      <created>1677111651900</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1677111651900</updated>
+    </task>
+    <task id="LOCAL-00033" summary="robot">
+      <created>1677161266792</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1677161266792</updated>
+    </task>
+    <task id="LOCAL-00034" summary="robot+inter">
+      <created>1677165880944</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1677165880944</updated>
+    </task>
+    <task id="LOCAL-00035" summary="testMisha">
+      <created>1677424128029</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1677424128029</updated>
+    </task>
+    <task id="LOCAL-00036" summary="testMisha">
+      <created>1677453860186</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1677453860186</updated>
+    </task>
+    <task id="LOCAL-00037" summary="у кабана">
+      <created>1677600154406</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1677600154406</updated>
+    </task>
+    <task id="LOCAL-00038" summary="у кабана">
+      <created>1677600165891</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1677600165891</updated>
+    </task>
+    <task id="LOCAL-00039" summary="у кабана">
+      <created>1677602229550</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1677602229550</updated>
+    </task>
+    <task id="LOCAL-00040" summary="pattern">
+      <created>1677856374883</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1677856374883</updated>
+    </task>
+    <task id="LOCAL-00041" summary="pattern">
+      <created>1677858415900</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1677858415900</updated>
+    </task>
+    <task id="LOCAL-00042" summary="fdff">
+      <created>1677863759592</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1677863759592</updated>
+    </task>
+    <task id="LOCAL-00043" summary="113">
+      <created>1677863816500</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1677863816500</updated>
+    </task>
+    <task id="LOCAL-00044" summary="patternHW">
+      <created>1677867208211</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1677867208211</updated>
+    </task>
+    <task id="LOCAL-00045" summary="patternHW">
+      <created>1677867761517</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1677867761517</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,8 +918,32 @@
     <MESSAGE value="calculator servlet" />
     <MESSAGE value="hw" />
     <MESSAGE value=" hw26Login servlets" />
-    <option name="LAST_COMMIT_MESSAGE" value=" hw26Login servlets" />
+    <MESSAGE value="new" />
+    <MESSAGE value="update" />
+    <MESSAGE value="user computer lesson 7" />
+    <MESSAGE value="123" />
+    <MESSAGE value="upd homework" />
+    <MESSAGE value="99" />
+    <MESSAGE value="MilitaryOffice hw" />
+    <MESSAGE value="dataBaseStudents" />
+    <MESSAGE value="ServletDatabaseStudNew!" />
+    <MESSAGE value="robot" />
+    <MESSAGE value="robot+inter" />
+    <MESSAGE value="testMisha" />
+    <MESSAGE value="у кабана" />
+    <MESSAGE value="pattern" />
+    <MESSAGE value="fdff" />
+    <MESSAGE value="113" />
+    <MESSAGE value="patternHW" />
+    <option name="LAST_COMMIT_MESSAGE" value="patternHW" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/C62_2022_Borodinov$Tomcat_11_0_0_M1.ic" NAME="Tomcat 11.0.0-M1 Coverage Results" MODIFIED="1677178065466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
