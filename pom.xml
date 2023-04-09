@@ -94,7 +94,23 @@
         <module>Lesson26LoginServlet</module>
         <module>PracticeCore</module>
         <module>Lesson27ServletDatabaseStud</module>
+        <module>Lesson28E-StoreCommandController</module>
+        <module>Lesson28OnlineStoreServlet</module>
+        <module>Lesson28PoemServlet</module>
+        <module>Lesson29E-StoreController</module>
+        <module>Lesson30ServletRegisterForm</module>
+        <module>Lesson30ServletRegistrationForm</module>
+        <module>Lesson31BuilderPattern</module>
         <module>Lesson31Pattern</module>
+        <module>Lesson31PatternFactoryAbstract</module>
+        <module>Lesson31SingletonPattern</module>
+        <module>Lesson32AllPatternTypes</module>
+        <module>Lesson33JavaEECommandPatternOnlineStore</module>
+        <module>Lesson33JavaEEPatterns</module>
+        <module>Lesson34Logs</module>
+        <module>Lesson36Sql</module>
+        <module>Lesson37Spring</module>
+
     </modules>
 
     <properties>
