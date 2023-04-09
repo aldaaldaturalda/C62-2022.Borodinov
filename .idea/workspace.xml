@@ -9,602 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="question hw">
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/CommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/AccountPageCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/AddCartPageCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/AddFavoritePageCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/CreateUserPageCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/CreateUserPagePostCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/DeleteCartProductPageCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/DeleteFavoriteCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/FavoritesCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/HomePageCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/LoginPageCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/LoginPagePostCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/LogoutPageCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/OneProductPageCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/ProductPageCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/SearchFilterPageCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/SearchPageCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/SearchPagePostCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/ShoppingCartPageCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/controller/impl/ShoppingCartPagePostCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/exception/CommandException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/filter/LockPageFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/filter/SecurityFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/filter/WebEncodingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/listener/DbInitContextListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/model/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/model/Commands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/model/Inject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/model/Ordering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/model/PagesPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/model/ProductType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/repository/BaseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/repository/ConnectionPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/repository/ConnectionWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/repository/JdbcCartRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/repository/JdbcOrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/repository/JdbcProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/repository/JdbcUserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/repository/impl/JdbcCartRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/repository/impl/JdbcOrderRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/repository/impl/JdbcProductRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/repository/impl/JdbcUserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/service/CartService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/service/impl/CartServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/service/impl/ProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/servlet/ApplicationServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/utils/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/utils/ControllerCommandFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/utils/ControllerUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/utils/InjectObjectsFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/utils/RepositoryJdbcUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/utils/ServletUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/utils/UserVerifyedValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java/tms/utils/ValidatorUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/resources/init.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/404.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/500.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/cart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/category.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/css/page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/css/register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/eshop.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/camera.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/cameraCanon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/cameraNikon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/car.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/carTesla.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/carVolvo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/fridge.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/fridgeBosch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/fridgeSamsung.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/jps_nav.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/laptop.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/laptopAcer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/laptopLenovo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/mobile.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/mobileApple.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/mobileSamsung.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/navigatorGeofox.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/images/navigatorNavitel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/img/error/500.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/img/phone.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/img/phone/Apple iphone 14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/img/phone/Samsung S22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/img/phone/Samsung S23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/img/phone/Xiaomi 13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/img/phone/Xiaomi 13pro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/img/tv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/img/tv/LG 49S.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/img/tv/LG 55NAN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/img/tv/Sony KD-55.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/js/validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/product.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/profile.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/resources/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/sign-in.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/view/account.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/view/bootstrap.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/view/create-user.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/view/fail-register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/view/favorites.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/view/navigate.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/view/oneProduct.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/view/products.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/view/search.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/view/shopping-cart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/view/success-buy.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/webapp/view/success-register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/exceptions/RequestParamNullException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/filter/CharacterEncodingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/listener/InitializationContextListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/model/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/model/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/repository/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/repository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/repository/impl/JdbcCategoryRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/repository/impl/ProductRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/repository/impl/StaticCategoryRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/service/CategoryServiceAware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/servlet/CategoryServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/servlet/HomeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/servlet/LogoutServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/servlet/ProductServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/servlet/ProfileServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/servlet/ShoppingCartServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/utils/CategoryHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/utils/HttpRequestParamValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/utils/ProductHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java/onlineStore/utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/resources/init.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/cart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/category.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/camera.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/cameraCanon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/cameraNikon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/car.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/carTesla.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/carVolvo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/fridge.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/fridgeBosch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/fridgeSamsung.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/jps_nav.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/laptop.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/laptopAcer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/laptopLenovo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/mobile.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/mobileApple.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/mobileSamsung.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/navigatorGeofox.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/images/navigatorNavitel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/product.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/profile.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/resources/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/webapp/signing.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28PoemServlet/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28PoemServlet/src/main/java/models/Poem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28PoemServlet/src/main/java/servlets/PoemServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28PoemServlet/src/main/resources/poemsByBogdanovich/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28PoemServlet/src/main/resources/poemsByBogdanovich/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28PoemServlet/src/main/resources/poemsByBogdanovich/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28PoemServlet/src/main/resources/poemsByBogdanovich/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28PoemServlet/src/main/resources/poemsByBogdanovich/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28PoemServlet/src/main/resources/poemsByBogdanovich/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28PoemServlet/src/main/resources/poemsByBogdanovich/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28PoemServlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28PoemServlet/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson28PoemServlet/src/main/webapp/poem.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/controller/BaseCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/controller/impl/CartPageControllerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/controller/impl/CartPagePostControllerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/controller/impl/CategoryPageControllerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/controller/impl/HomePageBaseCommandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/controller/impl/LogoutPageControllerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/controller/impl/ProductPageControllerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/controller/impl/ProfilePageControllerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/controller/impl/SignInPageControllerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/controller/impl/SignInPagePostControllerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/controller/impl/SignUpPagePostController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/dto/UserDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/exceptions/RequestParamNullException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/filter/CharacterEncodingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/listener/InitializationContextListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/model/Attribute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/model/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/model/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/model/Commands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/model/Inject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/model/PagesPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/model/RequestParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/repository/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/repository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/repository/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/repository/impl/CategoryRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/repository/impl/ProductRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/repository/impl/UserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/repository/utils/ConnectionPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/repository/utils/ConnectionWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/service/impl/CategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/service/impl/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/service/impl/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/servlet/ApplicationServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/utils/CategoryHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/utils/CommandControllerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/utils/InjectObjectsFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/utils/ProductHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/java/by/tms/onlinestore/utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/resources/init.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/cart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/category.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/camera.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/cameraCanon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/cameraNikon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/car.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/carTesla.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/carVolvo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/fridge.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/fridgeBosch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/fridgeSamsung.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/jps_nav.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/laptop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/laptopAcer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/laptopLenovo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/mobile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/mobileApple.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/mobileSamsung.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/navigatorGeofox.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/images/navigatorNavitel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/product.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/profile.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/resources/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/resources/registration.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/resources/registration.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/resources/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/resources/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/signin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29E-StoreController/src/main/webapp/signup.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29GradleProject/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29GradleProject/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29GradleProject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29GradleProject/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29GradleProject/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29GradleProject/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson29GradleProject/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegisterForm/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegisterForm/src/main/java/register/RegisterFormServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegisterForm/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegisterForm/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegisterForm/src/main/webapp/registration.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegisterForm/src/main/webapp/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegisterForm/src/main/webapp/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/src/main/java/registration/RegistrationFormServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/src/main/webapp/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/src/main/webapp/css/auth.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/src/main/webapp/css/particles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/src/main/webapp/js/particles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/src/main/webapp/json/particles.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/src/main/webapp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/src/main/webapp/registration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/src/main/webapp/registrationForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/src/main/webapp/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31BuilderPattern/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31BuilderPattern/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31BuilderPattern/src/main/java/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31BuilderPattern/src/main/java/models/UserAbove18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31BuilderPattern/src/main/java/models/UserUnder18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/cars/BMWHubImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/cars/CarBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/cars/CarCharacteristic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/cars/CarPremium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/cars/CarVIP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/cars/CreateCarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/cars/MercedesHubImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/cars/NissanHubImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/Archer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/WarriorTypeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/WeaponType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/Wizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/elf/ElfArcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/elf/ElfSquadFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/elf/ElfWarrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/elf/ElfWizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/ork/OrkArcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/ork/OrkSquadFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/ork/OrkWarrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/ork/OrkWizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/people/PeopleArcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/people/PeopleSquadFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/people/PeopleWarrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/models/squad/people/PeopleWizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/service/CarApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/service/SquadApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/streamTasks/CountNumbersWithStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java/streamTasks/SortCitiesByStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31SingletonPattern/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson31SingletonPattern/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/chain_of_responsibility/EmailNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/chain_of_responsibility/MainChainNotifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/chain_of_responsibility/Notifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/chain_of_responsibility/Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/chain_of_responsibility/SimpleReportNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/chain_of_responsibility/SmsNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/command/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/command/DeleteCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/command/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/command/InsertCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/command/MainCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/command/RollBackCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/command/SelectCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/command/UpdateCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/iterator/Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/iterator/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/iterator/JavaDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/iterator/MainIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/iterator/SkillIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/mediator/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/mediator/Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/mediator/MainMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/mediator/SimpleTextChat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/mediator/SimpleUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/mediator/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/memento/GitHubRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/memento/MainMemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/memento/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/memento/Save.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/observer/JavaDeveloperWebSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/observer/MainObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/observer/Observed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/observer/Subscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/state/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/state/Coding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/state/DeveloperCasualDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/state/MainState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/state/Reading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/state/Sleeping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/state/Training.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/strategy/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/strategy/Coding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/strategy/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/strategy/MainStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/strategy/Reading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/strategy/Sleeping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/strategy/Training.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/template/MainTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/template/NewsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/template/SportPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/template/WebsiteTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/template/WelcomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/template2/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/template2/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/template2/MainTemplate2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/template2/Tea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/visitor/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/visitor/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/visitor/JuniorDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/visitor/MainVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/visitor/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/visitor/ProjectClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/visitor/ProjectElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/visitor/SeniorDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/visitor/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/visitor2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/visitor2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/visitor2/ConcreteVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/visitor2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/visitor2/MainVisitor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/behavioral/visitor2/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/abstractfactory/AutomationQA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/abstractfactory/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/abstractfactory/JavaDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/abstractfactory/MainAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/abstractfactory/ProjectManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/abstractfactory/ProjectManagerBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/abstractfactory/ProjectTeamBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/abstractfactory/ProjectTeamFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/abstractfactory/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/builder/MainBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/builder/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/builder2/AutomotiveEngineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/builder2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/builder2/CarBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/builder2/ClassicCarBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/builder2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/builder2/SportCarBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/builder3/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/builder3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/builder3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/builder3/PersonBuilderImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/factory/CppDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/factory/CppDeveloperFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/factory/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/factory/DeveloperFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/factory/DeveloperType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/factory/JavaDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/factory/JavaDeveloperFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/factory/MainFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/factory/PhpDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/factory/PhpDeveloperFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/prototype/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/prototype/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/prototype/MainPrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/singleton/MainSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/creational/synhsinleton/SynchronizedSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter/AdapterJavaAppToDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter/DataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter/JavaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter/MainAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter2/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter2/AdapterTurkeyToDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter2/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter2/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter2/Turkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter2/WildTurkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter3/AdapterTruckToCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter3/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter3/MyTrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/adapter3/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/bridge/BankApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/bridge/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/bridge/JavaDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/bridge/MainBridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/bridge/PhpDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/bridge/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/bridge/StoreApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/composite/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/composite/JavaDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/composite/MainComposite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/composite/PhpDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/composite/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/decorator/DecoratorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/decorator/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/decorator/DeveloperDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/decorator/JavaDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/decorator/SeniorJavaDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/decorator/TeamLeadJavaDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/decorator2/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/decorator2/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/decorator2/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/decorator2/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/decorator2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/decorator2/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/decorator2/Whip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/facade/BugTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/facade/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/facade/FacadeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/facade/Job.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/facade/WorkFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/flyweight/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/flyweight/DeveloperFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/flyweight/FlyweightMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/flyweight/JavaDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/flyweight/PhpDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/proxy/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/proxy/ProxyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/proxy/ProxyProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java/structural/proxy/RealProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/java/main/models/Authenticator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/java/main/models/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/java/main/models/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/java/main/models/Ordering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/java/main/models/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/java/main/models/ProductType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/java/main/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/java/main/repository/JdbcUserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/java/main/repository/impl/JdbcUserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/java/main/service/AuthenticatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/java/main/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/java/main/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/java/main/service/impl/AuthenticatorServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/java/main/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/commands/BaseCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/commands/HomePageCommandImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/commands/SignInCommandImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/dao/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/dao/IStudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/dao/StudentDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/dao/domain/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/dao/utils/ConnectionPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/dao/utils/ConnectionWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/domain/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/exceptions/CommandException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/exceptions/RequestParamNullException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/froncontroller/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/froncontroller/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/froncontroller/EmployeeView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/froncontroller/FrontController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/froncontroller/HomeView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/frontControllerSample/DashboardView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/frontControllerSample/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/frontControllerSample/ErrorView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/frontControllerSample/FrontController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/frontControllerSample/HomeView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/frontControllerSample/MainFrontController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/frontControllerSample/StudentView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/frontControllerSample/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/model/Commands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/model/PagesPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/model/RequestParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/mvc/ApplicationMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/mvc/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/mvc/EmployeeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/mvc/EmployeeView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/servlet/ApplicationServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/utils/CommandFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java/utils/HttpRequestParamValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/resources/init.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/webapp/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/webapp/images/camera.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/webapp/images/car.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/webapp/images/fridge.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/webapp/images/jps_nav.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/webapp/images/laptop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/webapp/images/mobile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/webapp/signin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson34Logs/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson34Logs/src/main/java/appLog4j2/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson34Logs/src/main/java/appLog4j2/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson34Logs/src/main/java/appLogback/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson34Logs/src/main/java/appLogback/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson34Logs/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson34Logs/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson34Logs/src/main/resources/logback_simple.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson36Sql/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson36Sql/src/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson36Sql/src/main/resources/may-to-many.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson36Sql/src/main/resources/one-to-many.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson36Sql/src/main/resources/one-to-one.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson36Sql/src/main/resources/table-with-parameters.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson36Sql/src/main/resources/не повторяющееся чтение.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson36Sql/src/main/resources/фантомное чтение.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson37Spring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson37Spring/src/main/java/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson37Spring/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson37Spring/src/main/java/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="new update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -667,11 +72,6 @@
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -684,28 +84,28 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "import_schema_mapping": "<schema-mapping>\n  <databases>\n    <list>\n      <schema-mapping-item>\n        <source-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</source-data-source-id>\n        <source-path>database/&quot;postgres&quot;/schema/&quot;city&quot;</source-path>\n        <target-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</target-data-source-id>\n        <target-path>database/&quot;postgres&quot;/schema/&quot;students_db&quot;</target-path>\n      </schema-mapping-item>\n    </list>\n  </databases>\n</schema-mapping>",
-    "jdk.selected.JAVA_MODULE": "openjdk-19 (2)",
-    "last_opened_file_path": "D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "service.view.auto.scroll.to.source": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;import_schema_mapping&quot;: &quot;&lt;schema-mapping&gt;\n  &lt;databases&gt;\n    &lt;list&gt;\n      &lt;schema-mapping-item&gt;\n        &lt;source-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/source-data-source-id&gt;\n        &lt;source-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;city&amp;quot;&lt;/source-path&gt;\n        &lt;target-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/target-data-source-id&gt;\n        &lt;target-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;students_db&amp;quot;&lt;/target-path&gt;\n      &lt;/schema-mapping-item&gt;\n    &lt;/list&gt;\n  &lt;/databases&gt;\n&lt;/schema-mapping&gt;&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19 (2)&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;service.view.auto.scroll.to.source&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="models" />
@@ -1157,6 +557,7 @@
       <workItem from="1680267363100" duration="1050000" />
       <workItem from="1681062394038" duration="1762000" />
       <workItem from="1681073012696" duration="2296000" />
+      <workItem from="1681076364521" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -1494,7 +895,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677941931865</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="new update">
+      <created>1681076766106</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1681076766106</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1525,8 +933,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="First commit" />
-    <MESSAGE value="homework&#10;servlets" />
     <MESSAGE value="homework" />
     <MESSAGE value="homework flowers+ проработал изменения которые вы прокомментировали в репозитории" />
     <MESSAGE value="calculator servlet" />
@@ -1550,7 +956,9 @@
     <MESSAGE value="113" />
     <MESSAGE value="patternHW" />
     <MESSAGE value="question hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="question hw" />
+    <MESSAGE value="new upadate" />
+    <MESSAGE value="new update" />
+    <option name="LAST_COMMIT_MESSAGE" value="new update" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
