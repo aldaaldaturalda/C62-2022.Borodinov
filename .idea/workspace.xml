@@ -9,7 +9,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment=" hw26Login servlets" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment=" hw26Login servlets">
+      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson28E-StoreCommandController/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson28PoemServlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson28PoemServlet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson29E-StoreController/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson29E-StoreController/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson30ServletRegisterForm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson30ServletRegisterForm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,11 +81,6 @@
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -89,28 +93,29 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;import_schema_mapping&quot;: &quot;&lt;schema-mapping&gt;\n  &lt;databases&gt;\n    &lt;list&gt;\n      &lt;schema-mapping-item&gt;\n        &lt;source-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/source-data-source-id&gt;\n        &lt;source-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;city&amp;quot;&lt;/source-path&gt;\n        &lt;target-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/target-data-source-id&gt;\n        &lt;target-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;students_db&amp;quot;&lt;/target-path&gt;\n      &lt;/schema-mapping-item&gt;\n    &lt;/list&gt;\n  &lt;/databases&gt;\n&lt;/schema-mapping&gt;&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19 (2)&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov/Lesson27ServletDatabaseStud/src/main/webapp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;service.view.auto.scroll.to.source&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "develop",
+    "import_schema_mapping": "<schema-mapping>\n  <databases>\n    <list>\n      <schema-mapping-item>\n        <source-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</source-data-source-id>\n        <source-path>database/&quot;postgres&quot;/schema/&quot;city&quot;</source-path>\n        <target-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</target-data-source-id>\n        <target-path>database/&quot;postgres&quot;/schema/&quot;students_db&quot;</target-path>\n      </schema-mapping-item>\n    </list>\n  </databases>\n</schema-mapping>",
+    "jdk.selected.JAVA_MODULE": "openjdk-19 (2)",
+    "last_opened_file_path": "D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov/Lesson27ServletDatabaseStud/src/main/webapp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "service.view.auto.scroll.to.source": "true",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="models" />
@@ -862,7 +867,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677864806080</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary=" hw26Login servlets">
+      <created>1681151367928</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1681151367928</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
