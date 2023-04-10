@@ -24,25 +24,30 @@ public class Main {
 //        squadElf.createArcher().GetTypeOfWeapon();
 //        squadElf.createWarrior().GetTypeOfWeapon();
 //        squadElf.createWizard().GetTypeOfWeapon();
-        CreateFactoryDoWarriorsImpl ork = createFactoryDoWarriors("squadork");
+        CreateFactoryForWarriorsImpl ork = createFactoryDoWarriors("squadork");
         ork.createWarrior().getTypeOfWeapon();
         ork.createArcher().getTypeOfWeapon();
         ork.createWizard().getTypeOfWeapon();
         System.out.println("!!!");
-        CreateFactoryDoWarriorsImpl people = createFactoryDoWarriors("squadpeople");
+        CreateFactoryForWarriorsImpl people = createFactoryDoWarriors("squadpeople");
         people.createWizard().getTypeOfWeapon();
         people.createArcher().getTypeOfWeapon();
         people.createWarrior().getTypeOfWeapon();
         System.out.println("!!!");
-        CreateFactoryDoWarriorsImpl elf = createFactoryDoWarriors("squadelf");
+        CreateFactoryForWarriorsImpl elf = createFactoryDoWarriors("squadelf");
         elf.createWarrior().getTypeOfWeapon();
         elf.createArcher().getTypeOfWeapon();
         elf.createWizard().getTypeOfWeapon();
         System.out.println("!!!!");
-
+        CreateRobokopFactoryImpl robokop = createRobokop("Robokop");
+        robokop.createBattery().getFunction();
+        robokop.createHead().getFunction();
+        robokop.createLeg().getFunction();
+        robokop.createlifeCount().getFunction();
+        robokop.createHead().getOperationSystem();
     }
 
-    static CreateFactoryDoWarriorsImpl createFactoryDoWarriors(String type) {
+    static CreateFactoryForWarriorsImpl createFactoryDoWarriors(String type) {
         if (type.equalsIgnoreCase("Squadork")) {
             return new SquadOrk();
         } else if (type.equalsIgnoreCase("SquadElf")) {
@@ -54,7 +59,7 @@ public class Main {
         }
     }
 
-    static CreateRobokopPartsImpl createRobokop(String robotType) {
+    static CreateRobokopFactoryImpl createRobokop(String robotType) {
         if (robotType.equalsIgnoreCase("rObokop")) {
             return new Robokop();
         } else {

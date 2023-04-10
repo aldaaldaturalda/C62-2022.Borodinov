@@ -1,14 +1,13 @@
 package models;
 
-public class Leg implements Function {
+public class Leg implements FunctionImpl {
+
+    public void getFunction() {
+        System.out.println("Ура у меня есть ноги!!!");
+    }
 
     @Override
-    public void getFunction(String info) {
-        if (info == null) {
-            System.out.println("у кабана сосать нечего");
-        } else {
-            System.out.println("есть морковка у кабана");
-        }
-
+    public void getOperationSystem() {
+        System.out.println("Operation system for Leg");
     }
 }

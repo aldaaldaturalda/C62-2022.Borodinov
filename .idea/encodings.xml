@@ -45,10 +45,40 @@
     <file url="file://$PROJECT_DIR$/Lesson27ServletDataBase/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Lesson27ServletDatabaseStud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson28E-StoreCommandController/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson28OnlineStoreServlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson28PoemServlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson28PoemServlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson29E-StoreController/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson29E-StoreController/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Lesson3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Lesson3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson30ServletRegisterForm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson30ServletRegisterForm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson30ServletRegistrationForm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson30ServletRegistrationForm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson31BuilderPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson31BuilderPattern/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Lesson31Pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Lesson31Pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson31PatternFactoryAbstract/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson31SingletonPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson31SingletonPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson32AllPatternTypes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson33JavaEEPatterns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson34Logs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson34Logs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson36Sql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson36Sql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson37Spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson37Spring/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Lesson4/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Lesson4/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Lesson5/src/main/java" charset="UTF-8" />

@@ -7,26 +7,24 @@ import lombok.ToString;
 @Getter
 @Setter
 @ToString
-public class Robokop implements CreateRobokopPartsImpl {
-
-
+public class Robokop implements CreateRobokopFactoryImpl {
     @Override
-    public Head getHead() {
+    public Head createHead() {
         return new Head();
     }
 
     @Override
-    public Leg getLeg() {
+    public Leg createLeg() {
         return new Leg();
     }
 
     @Override
-    public Battery getBattery() {
+    public Battery createBattery() {
         return new Battery();
     }
 
     @Override
-    public LifeCount getLifeCount() {
+    public LifeCount createlifeCount() {
         return new LifeCount();
     }
 }

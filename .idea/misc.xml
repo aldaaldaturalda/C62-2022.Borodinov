@@ -7,6 +7,13 @@
     <file type="web" url="file://$PROJECT_DIR$/Lesson26LoginServlet" />
     <file type="web" url="file://$PROJECT_DIR$/Lesson27ServletDataBase" />
     <file type="web" url="file://$PROJECT_DIR$/Lesson27ServletDatabaseStud" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson28E-StoreCommandController" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson28OnlineStoreServlet" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson28PoemServlet" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson29E-StoreController" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson30ServletRegisterForm" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson30ServletRegistrationForm" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson33JavaEECommandPatternOnlineStore" />
     <file type="web" url="file://$PROJECT_DIR$/PracticeCore" />
   </component>
   <component name="MavenProjectsManager">

@@ -9,7 +9,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment=" hw26Login servlets" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="pattern">
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Battery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateRobokopFactoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/CreateRobokopPartsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Head.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Leg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/LifeCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/main/Robokop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson31Pattern/src/main/java/models/Robokop.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -841,28 +851,7 @@
       <option name="project" value="LOCAL" />
       <updated>1677858415900</updated>
     </task>
-    <task id="LOCAL-00042" summary=" hw26Login servlets">
-      <created>1677864376393</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1677864376393</updated>
-    </task>
-    <task id="LOCAL-00043" summary=" hw26Login servlets">
-      <created>1677864755963</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1677864755963</updated>
-    </task>
-    <task id="LOCAL-00044" summary=" hw26Login servlets">
-      <created>1677864806080</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1677864806080</updated>
-    </task>
-    <option name="localTasksCounter" value="45" />
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -899,6 +888,7 @@
     <MESSAGE value="homework flowers+ проработал изменения которые вы прокомментировали в репозитории" />
     <MESSAGE value="calculator servlet" />
     <MESSAGE value="hw" />
+    <MESSAGE value=" hw26Login servlets" />
     <MESSAGE value="new" />
     <MESSAGE value="update" />
     <MESSAGE value="user computer lesson 7" />
@@ -913,8 +903,7 @@
     <MESSAGE value="testMisha" />
     <MESSAGE value="у кабана" />
     <MESSAGE value="pattern" />
-    <MESSAGE value=" hw26Login servlets" />
-    <option name="LAST_COMMIT_MESSAGE" value=" hw26Login servlets" />
+    <option name="LAST_COMMIT_MESSAGE" value="pattern" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

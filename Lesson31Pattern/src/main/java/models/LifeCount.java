@@ -1,13 +1,13 @@
 package models;
 
-public class LifeCount implements Function {
-    @Override
-    public void getFunction(String info) {
-        if (info == null) {
-            System.out.println("выжить любой ценой");
-        } else {
-            System.out.println("остаться в живых в РБ + сосен мэсон");
-        }
-
+public class LifeCount implements FunctionImpl {
+    public void getFunction() {
+        System.out.println("Посмотри на счетчик!!!");
     }
+
+    @Override
+    public void getOperationSystem() {
+        System.out.println("Operation system for LifeCount");
+    }
+
 }
