@@ -9,15 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment=" hw26Login servlets">
-      <change beforePath="$PROJECT_DIR$/Lesson26LoginServlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson26LoginServlet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson27ServletDatabaseStud/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson28E-StoreCommandController/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson28E-StoreCommandController/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson28OnlineStoreServlet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson28PoemServlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson28PoemServlet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson29E-StoreController/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson29E-StoreController/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson30ServletRegisterForm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson30ServletRegisterForm/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson30ServletRegistrationForm/pom.xml" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="new update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +26,8 @@
         <option value="Jsp File" />
         <option value="Enum" />
         <option value="package-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -102,7 +95,7 @@
     "git-widget-placeholder": "develop",
     "import_schema_mapping": "<schema-mapping>\n  <databases>\n    <list>\n      <schema-mapping-item>\n        <source-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</source-data-source-id>\n        <source-path>database/&quot;postgres&quot;/schema/&quot;city&quot;</source-path>\n        <target-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</target-data-source-id>\n        <target-path>database/&quot;postgres&quot;/schema/&quot;students_db&quot;</target-path>\n      </schema-mapping-item>\n    </list>\n  </databases>\n</schema-mapping>",
     "jdk.selected.JAVA_MODULE": "openjdk-19 (2)",
-    "last_opened_file_path": "D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov/Lesson27ServletDatabaseStud/src/main/webapp",
+    "last_opened_file_path": "D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -112,7 +105,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "service.view.auto.scroll.to.source": "true",
-    "settings.editor.selected.configurable": "terminal",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -122,11 +115,11 @@
       <recent name="OrcSquad" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson27ServletDatabaseStud\src\main\webapp" />
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson27ServletDatabaseStud\src\main\java" />
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson27ServletDataBase\src\main\java\webapp\WEB-INF" />
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson27ServletDataBase\src\main" />
-      <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson27ServletDataBase\src\main\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov\Lesson25Servlet\src\main\webapp" />
@@ -135,9 +128,9 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Kettle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L2.Kettle" />
+  <component name="RunManager" selected="Application.Question2">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L2.Example" />
       <module name="PracticeCore" />
       <extension name="coverage">
         <pattern>
@@ -149,41 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L1.L2" />
-      <module name="PracticeCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="L1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LessonMishaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LessonMishaTest" />
-      <module name="Lesson5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="Lesson31Pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="models.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L2.Phone" />
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L2.Example2" />
       <module name="PracticeCore" />
       <extension name="coverage">
         <pattern>
@@ -191,6 +151,39 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exaple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L2.Exaple" />
+      <module name="PracticeCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L2.Question2" />
+      <module name="PracticeCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionMisha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuestionMisha" />
+      <module name="PracticeCore" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -467,20 +460,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Kettle" />
-      <item itemvalue="Application.Phone" />
-      <item itemvalue="Application.L2" />
-      <item itemvalue="Application.LessonMishaTest" />
+      <item itemvalue="Application.Question2" />
+      <item itemvalue="Application.QuestionMisha" />
+      <item itemvalue="Application.Example" />
+      <item itemvalue="Application.Example2" />
+      <item itemvalue="Application.Exaple" />
       <item itemvalue="Tomcat Server.Tomcat 11.0.0-M1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Kettle" />
-        <item itemvalue="Application.Phone" />
-        <item itemvalue="Application.LessonMishaTest" />
-        <item itemvalue="Application.L2" />
+        <item itemvalue="Application.Question2" />
+        <item itemvalue="Application.QuestionMisha" />
+        <item itemvalue="Application.Example2" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.Exaple" />
       </list>
     </recent_temporary>
   </component>
@@ -557,7 +550,17 @@
       <workItem from="1677842294896" duration="3883000" />
       <workItem from="1677846236630" duration="13398000" />
       <workItem from="1677861747899" duration="1540000" />
-      <workItem from="1677863347102" duration="380000" />
+      <workItem from="1677863347102" duration="6028000" />
+      <workItem from="1677925656415" duration="1654000" />
+      <workItem from="1677927397541" duration="6471000" />
+      <workItem from="1677936613685" duration="3643000" />
+      <workItem from="1678129617595" duration="686000" />
+      <workItem from="1678365012025" duration="3195000" />
+      <workItem from="1678909231853" duration="599000" />
+      <workItem from="1680267363100" duration="1050000" />
+      <workItem from="1681062394038" duration="1762000" />
+      <workItem from="1681073012696" duration="2296000" />
+      <workItem from="1681076364521" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670549225438</created>
@@ -846,35 +849,63 @@
       <option name="project" value="LOCAL" />
       <updated>1677858415900</updated>
     </task>
-    <task id="LOCAL-00042" summary=" hw26Login servlets">
-      <created>1677864376393</created>
+    <task id="LOCAL-00042" summary="fdff">
+      <created>1677863759592</created>
       <option name="number" value="00042" />
       <option name="presentableId" value="LOCAL-00042" />
       <option name="project" value="LOCAL" />
-      <updated>1677864376393</updated>
+      <updated>1677863759592</updated>
     </task>
-    <task id="LOCAL-00043" summary=" hw26Login servlets">
-      <created>1677864755963</created>
+    <task id="LOCAL-00043" summary="113">
+      <created>1677863816500</created>
       <option name="number" value="00043" />
       <option name="presentableId" value="LOCAL-00043" />
       <option name="project" value="LOCAL" />
-      <updated>1677864755963</updated>
+      <updated>1677863816500</updated>
     </task>
-    <task id="LOCAL-00044" summary=" hw26Login servlets">
-      <created>1677864806080</created>
+    <task id="LOCAL-00044" summary="patternHW">
+      <created>1677867208211</created>
       <option name="number" value="00044" />
       <option name="presentableId" value="LOCAL-00044" />
       <option name="project" value="LOCAL" />
-      <updated>1677864806080</updated>
+      <updated>1677867208211</updated>
     </task>
-    <task id="LOCAL-00045" summary=" hw26Login servlets">
-      <created>1681151367928</created>
+    <task id="LOCAL-00045" summary="patternHW">
+      <created>1677867761517</created>
       <option name="number" value="00045" />
       <option name="presentableId" value="LOCAL-00045" />
       <option name="project" value="LOCAL" />
-      <updated>1681151367928</updated>
+      <updated>1677867761517</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="patternHW">
+      <created>1677868289714</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1677868289714</updated>
+    </task>
+    <task id="LOCAL-00047" summary="patternHW">
+      <created>1677868565982</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1677868565982</updated>
+    </task>
+    <task id="LOCAL-00048" summary="question hw">
+      <created>1677941931865</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1677941931865</updated>
+    </task>
+    <task id="LOCAL-00049" summary="new update">
+      <created>1681076766106</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1681076766106</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -905,12 +936,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="First commit" />
-    <MESSAGE value="homework&#10;servlets" />
     <MESSAGE value="homework" />
     <MESSAGE value="homework flowers+ проработал изменения которые вы прокомментировали в репозитории" />
     <MESSAGE value="calculator servlet" />
     <MESSAGE value="hw" />
+    <MESSAGE value=" hw26Login servlets" />
     <MESSAGE value="new" />
     <MESSAGE value="update" />
     <MESSAGE value="user computer lesson 7" />
@@ -925,8 +955,13 @@
     <MESSAGE value="testMisha" />
     <MESSAGE value="у кабана" />
     <MESSAGE value="pattern" />
-    <MESSAGE value=" hw26Login servlets" />
-    <option name="LAST_COMMIT_MESSAGE" value=" hw26Login servlets" />
+    <MESSAGE value="fdff" />
+    <MESSAGE value="113" />
+    <MESSAGE value="patternHW" />
+    <MESSAGE value="question hw" />
+    <MESSAGE value="new upadate" />
+    <MESSAGE value="new update" />
+    <option name="LAST_COMMIT_MESSAGE" value="new update" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
