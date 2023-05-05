@@ -10,7 +10,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="new update">
+      <change afterPath="$PROJECT_DIR$/Calculator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/AbC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/AldaAlda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Ar5ray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Ar6ray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/ClassesAndObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/IfElseLol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/IiliIliLOl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/StringMetod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/SwitchSw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/TestEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/TestEnum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/TestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +44,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
-        <option value="Enum" />
         <option value="package-info" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -58,6 +78,12 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PracticeCore/src/main/java/L2/Animal.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PracticeCore/src/main/java/L2/StringMetod.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PracticeCore/src/main/java/L2/TestEnum.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PracticeCore/src/main/java/L2/TestEnum2.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -74,6 +100,11 @@
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="openjdk-20" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -86,29 +117,29 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "develop",
-    "import_schema_mapping": "<schema-mapping>\n  <databases>\n    <list>\n      <schema-mapping-item>\n        <source-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</source-data-source-id>\n        <source-path>database/&quot;postgres&quot;/schema/&quot;city&quot;</source-path>\n        <target-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</target-data-source-id>\n        <target-path>database/&quot;postgres&quot;/schema/&quot;students_db&quot;</target-path>\n      </schema-mapping-item>\n    </list>\n  </databases>\n</schema-mapping>",
-    "jdk.selected.JAVA_MODULE": "openjdk-19 (2)",
-    "last_opened_file_path": "D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "service.view.auto.scroll.to.source": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;import_schema_mapping&quot;: &quot;&lt;schema-mapping&gt;\n  &lt;databases&gt;\n    &lt;list&gt;\n      &lt;schema-mapping-item&gt;\n        &lt;source-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/source-data-source-id&gt;\n        &lt;source-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;city&amp;quot;&lt;/source-path&gt;\n        &lt;target-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/target-data-source-id&gt;\n        &lt;target-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;students_db&amp;quot;&lt;/target-path&gt;\n      &lt;/schema-mapping-item&gt;\n    &lt;/list&gt;\n  &lt;/databases&gt;\n&lt;/schema-mapping&gt;&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-20&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;service.view.auto.scroll.to.source&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="models" />
@@ -128,9 +159,22 @@
       <recent name="D:\IntelliJ IDEA 2022.3\C62-2022.Borodinov" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question2">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L2.Example" />
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.calculator.Calculator" />
+      <module name="Calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfElseLol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L2.IfElseLol" />
       <module name="PracticeCore" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +186,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L2.Example2" />
+    <configuration name="SwitchSw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L2.SwitchSw" />
       <module name="PracticeCore" />
       <extension name="coverage">
         <pattern>
@@ -155,8 +199,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exaple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L2.Exaple" />
+    <configuration name="TestEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L2.TestEnum" />
       <module name="PracticeCore" />
       <extension name="coverage">
         <pattern>
@@ -168,8 +212,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L2.Question2" />
+    <configuration name="TestEnum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L2.TestEnum2" />
       <module name="PracticeCore" />
       <extension name="coverage">
         <pattern>
@@ -177,13 +221,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuestionMisha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuestionMisha" />
-      <module name="PracticeCore" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -460,20 +497,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Question2" />
-      <item itemvalue="Application.QuestionMisha" />
-      <item itemvalue="Application.Example" />
-      <item itemvalue="Application.Example2" />
-      <item itemvalue="Application.Exaple" />
+      <item itemvalue="Application.Calculator" />
+      <item itemvalue="Application.TestEnum" />
+      <item itemvalue="Application.TestEnum2" />
+      <item itemvalue="Application.IfElseLol" />
+      <item itemvalue="Application.SwitchSw" />
       <item itemvalue="Tomcat Server.Tomcat 11.0.0-M1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question2" />
-        <item itemvalue="Application.QuestionMisha" />
-        <item itemvalue="Application.Example2" />
-        <item itemvalue="Application.Example" />
-        <item itemvalue="Application.Exaple" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.TestEnum2" />
+        <item itemvalue="Application.TestEnum" />
+        <item itemvalue="Application.SwitchSw" />
+        <item itemvalue="Application.IfElseLol" />
       </list>
     </recent_temporary>
   </component>
@@ -561,13 +598,17 @@
       <workItem from="1681062394038" duration="1762000" />
       <workItem from="1681073012696" duration="2296000" />
       <workItem from="1681076364521" duration="481000" />
-    </task>
-    <task id="LOCAL-00001" summary="First commit">
-      <created>1670549225438</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1670549225438</updated>
+      <workItem from="1682079460348" duration="2289000" />
+      <workItem from="1682635309904" duration="755000" />
+      <workItem from="1682760570751" duration="2163000" />
+      <workItem from="1682849714096" duration="1208000" />
+      <workItem from="1683038387534" duration="6416000" />
+      <workItem from="1683047952078" duration="948000" />
+      <workItem from="1683106411661" duration="15880000" />
+      <workItem from="1683214865048" duration="3951000" />
+      <workItem from="1683308753111" duration="573000" />
+      <workItem from="1683312551927" duration="467000" />
+      <workItem from="1683313086846" duration="1524000" />
     </task>
     <task id="LOCAL-00002" summary="First commit">
       <created>1670549490025</created>
@@ -905,7 +946,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681076766106</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="new update">
+      <created>1681151922521</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1681151922521</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -964,6 +1012,87 @@
     <option name="LAST_COMMIT_MESSAGE" value="new update" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

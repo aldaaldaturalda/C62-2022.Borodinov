@@ -25,6 +25,7 @@
         <module name="Lesson37Spring" />
         <module name="Lesson14" />
         <module name="Lesson25Servlet" />
+        <module name="Calculator" />
         <module name="Lesson9" />
         <module name="Lesson30ServletRegistrationForm" />
         <module name="Lesson8" />
