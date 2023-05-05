@@ -9,28 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="new update">
-      <change afterPath="$PROJECT_DIR$/Calculator/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/src/main/java/by/calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/AbC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/AldaAlda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Ar5ray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Ar6ray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/ClassesAndObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/IfElseLol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/IiliIliLOl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/StringMetod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/SwitchSw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/TestEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/L2/TestEnum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeCore/src/main/java/TestTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="cba45eb2-0fd3-4421-8aca-668763c065f1" name="Changes" comment="calculator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,29 +97,29 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;import_schema_mapping&quot;: &quot;&lt;schema-mapping&gt;\n  &lt;databases&gt;\n    &lt;list&gt;\n      &lt;schema-mapping-item&gt;\n        &lt;source-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/source-data-source-id&gt;\n        &lt;source-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;city&amp;quot;&lt;/source-path&gt;\n        &lt;target-data-source-id&gt;0ed3eef6-636d-498b-bef1-021f82fd2568&lt;/target-data-source-id&gt;\n        &lt;target-path&gt;database/&amp;quot;postgres&amp;quot;/schema/&amp;quot;students_db&amp;quot;&lt;/target-path&gt;\n      &lt;/schema-mapping-item&gt;\n    &lt;/list&gt;\n  &lt;/databases&gt;\n&lt;/schema-mapping&gt;&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;service.view.auto.scroll.to.source&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "develop",
+    "import_schema_mapping": "<schema-mapping>\n  <databases>\n    <list>\n      <schema-mapping-item>\n        <source-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</source-data-source-id>\n        <source-path>database/&quot;postgres&quot;/schema/&quot;city&quot;</source-path>\n        <target-data-source-id>0ed3eef6-636d-498b-bef1-021f82fd2568</target-data-source-id>\n        <target-path>database/&quot;postgres&quot;/schema/&quot;students_db&quot;</target-path>\n      </schema-mapping-item>\n    </list>\n  </databases>\n</schema-mapping>",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "last_opened_file_path": "D:/IntelliJ IDEA 2022.3/C62-2022.Borodinov",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "service.view.auto.scroll.to.source": "true",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="models" />
@@ -608,14 +588,8 @@
       <workItem from="1683214865048" duration="3951000" />
       <workItem from="1683308753111" duration="573000" />
       <workItem from="1683312551927" duration="467000" />
-      <workItem from="1683313086846" duration="1524000" />
-    </task>
-    <task id="LOCAL-00002" summary="First commit">
-      <created>1670549490025</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1670549490025</updated>
+      <workItem from="1683313086846" duration="1823000" />
+      <workItem from="1683314967196" duration="60000" />
     </task>
     <task id="LOCAL-00003" summary="homework">
       <created>1674604989879</created>
@@ -953,7 +927,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681151922521</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="calculator">
+      <created>1683314890630</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1683314890631</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -984,7 +965,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="homework" />
     <MESSAGE value="homework flowers+ проработал изменения которые вы прокомментировали в репозитории" />
     <MESSAGE value="calculator servlet" />
     <MESSAGE value="hw" />
@@ -1009,7 +989,8 @@
     <MESSAGE value="question hw" />
     <MESSAGE value="new upadate" />
     <MESSAGE value="new update" />
-    <option name="LAST_COMMIT_MESSAGE" value="new update" />
+    <MESSAGE value="calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculator" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
