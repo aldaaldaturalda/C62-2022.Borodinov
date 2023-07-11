@@ -95,6 +95,7 @@
         <module>PracticeCore</module>
         <module>Lesson27ServletDatabaseStud</module>
         <module>Lesson31Pattern</module>
+        <module>E-store</module>
     </modules>
 
     <properties>
